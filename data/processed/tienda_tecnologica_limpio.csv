@@ -1,0 +1,1020 @@
+id_venta,fecha,producto,marca,categoria,precio,cantidad,garantia_meses,stock_dias,calificacion,canal,devolucion,total,opinion_usuario
+1.0,2022-01-01,Mouse,Samsung,computo,Desconocido,4.0,11.0,19.0,3.0,web,si,12755.84,Buena asesoría antes de comprar
+2.0,2022-01-02,Mouse,Xiaomi,moviles,539.2,4.0,1.0,37.0,1.0,tienda,si,2156.8,Buen precio y garantía
+3.0,2022-01-04,Tablet,Logitech,redes,4495.83,2.0,-26.0,60.0,2.0,web,si,8991.66,Excelente atención técnica
+507.5,Desconocido,SSD,Apple,Desconocido,4800.2,2.0,-10.0,111.0,1.0,marketplace,Desconocido,9600.4,Buen precio y garantía
+5.0,2022-01-07,Impresora,Apple,moviles,360.02,4.0,Desconocido,Desconocido,5.0,tienda,si,Desconocido,El producto presentó fallas
+6.0,2022-01-09,Impresora,Xiaomi,almacenamiento,2552.11,3.0,35.0,109.0,2.0,web,si,7656.33,Producto funcionando perfectamente
+507.5,2022-01-11,Impresora,Asus,almacenamiento,1780.01,-3.0,Desconocido,85.0,2.0,tienda,no,"5340,03",El pedido llegó incompleto
+8.0,2022-01-12,SSD,Xiaomi,computo,2207.34,2.0,34.0,53.0,2.0,web,si,4414.68,Recibí un producto diferente
+9.0,Desconocido,Audifonos,Dell,moviles,1708.7,1.0,31.0,43.0,5.0,tienda,si,-1708.7,Producto funcionando perfectamente
+10.0,2022-01-16,Impresora,Lenovo,almacenamiento,1999.67,2.0,16.0,34.0,3.0,web,si,3999.34,Excelente atención técnica
+11.0,2022-01-18,Celular,Logitech,redes,Desconocido,4.0,28.0,62.0,4.0,marketplace,no,7832.92,Entrega rápida y producto original
+12.0,Desconocido,SSD,Samsung,Desconocido,3056.92,1.0,30.0,76.0,5.0,tienda,si,3056.92,Excelente atención técnica
+13.0,2022-01-21,Impresora,Dell,redes,6206.63,1.0,27.0,74.0,4.0,tienda,no,6206.63,El pedido llegó incompleto
+14.0,2022-01-23,Router,Samsung,computo,4907.91,3.0,8.0,12.0,5.0,web,si,Desconocido, PRODUCTO FUNCIONANDO PERFECTAMENTE 
+15.0,2022-01-24,Monitor,Lenovo,computo,1577.2,4.0,17.0,"103,00",2.0,marketplace,si,6308.8,Recibí un producto diferente
+16.0,2022-01-26,Router,Dell,perifericos,2336.05,1.0,23.0,76.0,5.0,tienda,no,-2336.05,Excelente atención técnica
+17.0,2022-01-28,Laptop,Xiaomi,computo,6411.9,1.0,15.0,91.0,2.0,marketplace,si,6411.9,entrega rápida y producto original
+18.0,2022-01-29,Audifonos,Asus,perifericos,5854.25,2.0,6.0,30.0,1.0,web,no,11708.5,Buen precio y garantía
+19.0,2022-01-31, TECLADO ,Asus,almacenamiento,1323.55,1.0,28.0,5.0,Desconocido,tienda,si,1323.55,Mala atención postventa
+20.0,2022-02-02,Teclado,Desconocido,redes,2942.66,4.0,5.0,71.0,4.0,marketplace,si,11770.64,Desconocido
+21.0,2022-02-04,SSD,Dell,almacenamiento,3343.12,2.0,2.0,73.0,1.0,web,si,6686.24,Recibí un producto diferente
+22.0,2022-02-05,Teclado,Asus,almacenamiento,4148.02,4.0,Desconocido,48.0,4.0,marketplace,no,16592.08,Excelente atención técnica
+23.0,2022-02-07,Router,Logitech,redes,3260.06,2.0,31.0,82.0,4.0,marketplace,si,6520.12,Recibí un producto diferente
+24.0,2022-02-09,Mouse,Apple,moviles,911.33,3.0,25.0,54.0,5.0,marketplace,si,"2733,99",Buena asesoría antes de comprar
+25.0,2022-02-10,Audifonos,Lenovo,perifericos,6196.67,1.0,20.0,22.0,2.0,Desconocido,si,6196.67,Demoraron en atender la garantía
+26.0,2022-02-12,Mouse,HP,almacenamiento,1899.54,3.0,22.0,30.0,5.0,tienda,Desconocido,5698.62,Producto funcionando perfectamente
+27.0,2022-02-14,Mouse,Samsung,almacenamiento,2204.6,1.0,Desconocido,50.0,2.0,tienda,si,"2204,60",Demoraron en atender la garantía
+28.0,2022-02-16,Router,Logitech,perifericos,3460.87,4.0,35.0,109.0,5.0,web,si,13843.48,Desconocido
+29.0,2022-02-17,Desconocido,Samsung,perifericos,153.72,Desconocido,22.0,32.0,2.0,Desconocido,si,153.72,Demoraron en atender la garantía
+30.0,2022-02-19,Celular,Samsung,redes,3249.79,Desconocido,15.0,78.0,2.0,marketplace,no,3249.79,Desconocido
+31.0,2022-02-21,Mouse,Logitech,redes,3433.47,3.0,25.0,28.0,5.0,marketplace,no,10300.41,Producto funcionando perfectamente
+507.5,Desconocido, CELULAR ,HP,redes,3197.25,2.0,2.0,26.0,5.0,marketplace,no,6394.5,Buen precio y garantía
+33.0,2022-02-24,Impresora,Apple,almacenamiento,2478.69,1.0,Desconocido,38.0,1.0,tienda,si,2478.69,Recibí un producto diferente
+34.0,2022-02-26,Celular,Dell,moviles,5745.51,1.0,0.0,22.0,1.0,marketplace,si,-5745.51,Buena asesoría antes de comprar
+35.0,2022-02-27,Impresora,Dell,computo,2812.65,3.0,26.0,"88,00",4.0,marketplace,no,8437.95,Demoraron en atender la garantía
+36.0,2022-03-01,SSD,Dell,computo,2321.74,4.0,9.0,21.0,3.0,marketplace,si,9286.96,Buena asesoría antes de comprar
+37.0,Desconocido, CELULAR ,Dell,redes,5281.82,-2.0,2.0,112.0,1.0,tienda,no,10563.64,Desconocido
+38.0,2022-03-05,Celular,Desconocido,computo,4826.1,3.0,8.0,37.0,3.0,tienda,no,14478.3,Excelente atención técnica
+39.0,2022-03-06,Teclado,Samsung,perifericos,2130.89,4.0,"12,00",17.0,Desconocido,Desconocido,no,"8523,56",Buena asesoría antes de comprar
+40.0,2022-03-08,SSD,Dell, MOVILES ,3533.76,2.0,8.0,54.0,4.0,marketplace, SI ,7067.52,El producto presentó fallas
+41.0,2022-03-10,Router,Logitech,redes,2630.09,"4,00",36.0,86.0,4.0,marketplace,no,10520.36,El pedido llegó incompleto
+42.0,2022-03-11,Audifonos,Desconocido,perifericos,3650.92,"4,00",22.0,104.0,5.0,tienda,Desconocido,14603.68,Buen precio y garantía
+43.0,2022-03-13,Mouse,Dell,moviles,557.18,3.0,9.0,26.0,5.0,web,si,1671.54,Buena asesoría antes de comprar
+44.0,2022-03-15,Tablet,Lenovo,almacenamiento,5418.66,1.0,25.0,112.0,1.0,web,si,5418.66,El producto presentó fallas
+45.0,Desconocido,Desconocido, HP ,almacenamiento,Desconocido,1.0,27.0,107.0,3.0,Desconocido,no,2376.97,Excelente atención técnica
+46.0,2022-03-18,Mouse,Desconocido,redes,469.33,1.0,29.0,Desconocido,4.0,tienda,si,469.33,El producto presentó fallas
+47.0,2022-03-20,SSD,Samsung,redes,193.62,1.0,21.0,80.0,Desconocido,marketplace,no,-193.62,Demoraron en atender la garantía
+48.0,Desconocido,Celular,Lenovo,moviles,4832.02,1.0,3.0,72.0,"5,00",web,si,4832.02,Excelente atención técnica
+49.0,2022-03-23,Mouse,Xiaomi,moviles,3903.04,-1.0,6.0,Desconocido,5.0,Desconocido,no,Desconocido,Producto funcionando perfectamente
+50.0,2022-03-25,SSD,Apple,redes,4720.22,2.0,32.0,25.0,-2.0,marketplace,no,9440.44,Mala atención postventa
+51.0,2022-03-27,Mouse,HP,computo,4674.68,1.0,36.0,35.0,5.0,web,si,4674.68,Mala atención postventa
+52.0,2022-03-28,Mouse,Logitech,Desconocido,604.4,-2.0,20.0,Desconocido,3.0,tienda,no,1208.8,El pedido llegó incompleto
+53.0,2022-03-30,Impresora,Desconocido,perifericos,3315.16,4.0,8.0,3.0,1.0,marketplace,si,13260.64,El producto presentó fallas
+54.0,2022-04-01,Desconocido,Dell,computo,5918.63,1.0,26.0,22.0,2.0,marketplace, NO ,5918.63,Entrega rápida y producto original
+55.0,2022-04-03,Monitor,Logitech,moviles,5319.16,1.0,28.0,103.0,4.0,Desconocido,si,5319.16,Buena asesoría antes de comprar
+56.0,2022-04-04, TABLET ,Xiaomi,almacenamiento,2038.78,3.0,24.0,81.0,2.0,tienda,si,6116.34,Recibí un producto diferente
+57.0,2022-04-06, MONITOR ,Logitech,moviles,3759.51,3.0,10.0,77.0,4.0,web,Desconocido,11278.53,Buen precio y garantía
+58.0,2022-04-08,Desconocido,Xiaomi,moviles,3076.75,3.0,19.0,71.0,4.0,marketplace,si,9230.25,Entrega rápida y producto original
+59.0,2022-04-09,SSD,Asus,redes,5323.21,2.0,4.0,20.0,Desconocido,marketplace,si,10646.42,sin comentario
+60.0,2022-04-11,Desconocido,Apple,almacenamiento,6154.21,3.0,6.0,110.0,5.0,web,no,18462.63,Buen precio y garantía
+61.0,2022-04-13,Monitor,Lenovo,perifericos,-3971.54,1.0,29.0,32.0,2.0,marketplace,no,3971.54,Desconocido
+62.0,2022-04-14,Monitor,Samsung,redes,"2430,09",2.0,34.0,72.0,1.0,tienda,no,4860.18,Buen precio y garantía
+63.0,2022-04-16,Teclado,Desconocido,redes,2173.95,4.0,8.0,81.0,1.0,web,no,8695.8,El producto presentó fallas
+507.5,2022-04-18,Mouse,Xiaomi,moviles,1835.13,"3,00",Desconocido,"31,00",1.0,web,Desconocido,5505.39,Entrega rápida y producto original
+65.0,2022-04-20,Tablet,HP,almacenamiento,-1724.67,3.0,28.0,67.0,"1,00",web,no,-5174.01, RECIBÍ UN PRODUCTO DIFERENTE 
+66.0,2022-04-21,Monitor,Desconocido,perifericos,2885.28,4.0,27.0,25.0,"3,00",marketplace,si,11541.12,buena asesoría antes de comprar
+507.5,2022-04-23,Teclado,Logitech,perifericos,290.76,-2.0,10.0,118.0,3.0,web,si,"581,52",Buen precio y garantía
+68.0,2022-04-25,Audifonos,Xiaomi,moviles,3140.19,2.0,17.0,87.0,4.0,tienda,no,6280.38,Producto funcionando perfectamente
+69.0,2022-04-26,Monitor,Samsung,perifericos,976.53,3.0,13.0,111.0,4.0,marketplace,no,2929.59,Entrega rápida y producto original
+70.0,2022-04-28,Laptop,Lenovo,Desconocido,-1752.59,1.0,19.0,-35.0,5.0,web,si,1752.59,Buen precio y garantía
+71.0,2022-04-30,Tablet,Lenovo,computo,5518.51,4.0,0.0,118.0,4.0,tienda,si,22074.04,Excelente atención técnica
+72.0,2022-05-02,Monitor,Dell,almacenamiento,3198.67,2.0,1.0,10.0,5.0,marketplace,si,6397.34,Producto funcionando perfectamente
+73.0,2022-05-03,Mouse,Lenovo,perifericos,3675.59,3.0,21.0,12.0,3.0,marketplace,si,11026.77,Buena asesoría antes de comprar
+74.0,2022-05-05,Impresora,HP,almacenamiento,4931.51,3.0,22.0,23.0,5.0,web,no,14794.53,Excelente atención técnica
+75.0,2022-05-07,Desconocido,Samsung,computo,-2446.75,4.0,10.0,"2,00",-3.0,marketplace,no,9787.0,Mala atención postventa
+76.0,2022-05-08,Monitor,Asus,redes,787.59,1.0,1.0,8.0,1.0,tienda,si,787.59,El producto presentó fallas
+77.0,2022-05-10,Tablet,Apple,almacenamiento,1558.92,3.0,1.0,93.0,4.0,marketplace,no,4676.76,El producto presentó fallas
+78.0,2022-05-12,Impresora,Dell,moviles,2478.48,2.0,Desconocido,40.0,1.0,web,si,4956.96,Buen precio y garantía
+79.0,Desconocido,tablet,Lenovo,perifericos,2654.76,4.0,31.0,22.0,2.0,marketplace,no,10619.04,Demoraron en atender la garantía
+80.0,2022-05-15,Teclado,Apple,perifericos,965.95,4.0,24.0,50.0,5.0,web,no,Desconocido,Buena asesoría antes de comprar
+81.0,2022-05-17,Tablet,Apple,computo,5646.96,2.0,1.0,92.0,2.0,marketplace,no,11293.92,El producto presentó fallas
+82.0,2022-05-19,Teclado,HP,redes,5554.89,Desconocido,12.0,73.0,1.0,tienda, NO ,16664.67,Excelente atención técnica
+83.0,2022-05-20,mouse,Desconocido,computo,808.6,3.0,27.0,100.0,5.0,marketplace,no,"-2425,80",Producto funcionando perfectamente
+84.0,2022-05-22,SSD,Dell,redes,2845.25,4.0,28.0,1.0,4.0,web,Desconocido,11381.0,Excelente atención técnica
+85.0,2022-05-24,Audifonos,Xiaomi,computo,1206.59,"2,00",Desconocido,101.0,Desconocido,tienda,si,2413.18,El pedido llegó incompleto
+86.0,2022-05-25,Impresora,Apple,perifericos,1282.79,"1,00",31.0,66.0,3.0,Desconocido,si,1282.79,Desconocido
+87.0,2022-05-27,Impresora,HP,perifericos,6261.67,Desconocido,13.0,-60.0,5.0,marketplace,si,25046.68,Desconocido
+88.0,2022-05-29,Router,Dell,perifericos,1209.24,3.0,2.0,36.0,2.0,Desconocido,si,3627.72,Buen precio y garantía
+89.0,Desconocido,Audifonos,Lenovo,computo,2486.37,1.0,30.0,98.0,2.0,tienda,si,2486.37,El pedido llegó incompleto
+90.0,2022-06-01,Mouse,Xiaomi,Desconocido,5195.9,-3.0,29.0,106.0,-3.0,tienda,no,15587.7,Excelente atención técnica
+91.0,2022-06-03,Laptop,Dell,computo,478.23,4.0,25.0,25.0,3.0,marketplace,si,1912.92,Producto funcionando perfectamente
+92.0,2022-06-05,Tablet,HP,redes,4216.34,2.0,33.0,78.0,4.0,web,no,8432.68,Buena asesoría antes de comprar
+93.0,2022-06-06,Audifonos,Xiaomi,perifericos,4404.42,2.0,0.0,93.0,"3,00",web,si,8808.84,Entrega rápida y producto original
+94.0,2022-06-08,Celular,Asus,perifericos,5385.7,"2,00",Desconocido,66.0,2.0,tienda,no,10771.4,Producto funcionando perfectamente
+95.0,2022-06-10,Tablet,Dell,moviles,2427.1,3.0,28.0,10.0,4.0,web,no,7281.3,Producto funcionando perfectamente
+96.0,2022-06-11,mouse,Asus,computo,3759.79,-2.0,14.0,45.0,2.0,web,no,7519.58,Buena asesoría antes de comprar
+507.5,2022-06-13,Teclado,Dell,almacenamiento,3793.25,2.0,14.0,40.0,4.0,Desconocido,no,7586.5,Buena asesoría antes de comprar
+98.0,2022-06-15,Audifonos,Dell,redes,4280.46,1.0,7.0,"57,00",2.0,tienda,no,4280.46,El pedido llegó incompleto
+99.0,2022-06-17,Mouse,Lenovo,Desconocido,4145.77,1.0,15.0,76.0,3.0,web,si,4145.77,Demoraron en atender la garantía
+100.0,2022-06-18,Router,Xiaomi,moviles,5099.71,3.0,21.0,0.0,2.0,marketplace,si,Desconocido,Mala atención postventa
+101.0,2022-06-20,Teclado,Logitech,moviles,Desconocido,3.0,25.0,15.0,3.0,Desconocido,si,1913.79,Mala atención postventa
+102.0,2022-06-22,Desconocido,Asus,moviles,666.71,2.0,4.0,Desconocido,2.0,tienda,no,1333.42,Entrega rápida y producto original
+103.0,2022-06-23,Monitor,Asus,almacenamiento,1877.07,3.0,2.0,28.0,2.0,web,si,5631.21,Entrega rápida y producto original
+104.0,2022-06-25,Impresora,Asus,perifericos,5378.82,2.0,33.0,114.0,"1,00",web,si,10757.64,Entrega rápida y producto original
+105.0,2022-06-27,Router,Dell,computo,1048.0,1.0,17.0,61.0,4.0,tienda,si,1048.0,Buena asesoría antes de comprar
+106.0,2022-06-28,Celular,Samsung,computo,78.5,1.0,10.0,116.0,4.0,tienda,no,78.5,Demoraron en atender la garantía
+107.0,2022-06-30,Teclado,Dell,computo,2643.22,1.0,25.0,Desconocido,2.0,marketplace,no,2643.22,El producto presentó fallas
+108.0,2022-07-02,Impresora,Apple,redes,1169.71,2.0,9.0,48.0,3.0,Desconocido,si,2339.42,Buena asesoría antes de comprar
+109.0,2022-07-04,Celular,Asus,computo,365.76,3.0,30.0,82.0,1.0,marketplace,si,1097.28,Desconocido
+110.0,2022-07-05,Tablet,Apple,Desconocido,3916.52,3.0,9.0,87.0,5.0,marketplace,si,11749.56,Buen precio y garantía
+111.0,2022-07-07,Celular,Dell,redes,2064.18,2.0,9.0,1.0,2.0,web,no,4128.36,Mala atención postventa
+112.0,2022-07-09,Desconocido,Dell,moviles,"2555,44",2.0,11.0,55.0,3.0,Desconocido,no,5110.88,Buena asesoría antes de comprar
+113.0,2022-07-10,Mouse,Apple,computo,1426.32,1.0,29.0,23.0,1.0,web,no,1426.32,excelente atención técnica
+114.0,Desconocido,Router,Samsung,Desconocido,4684.18,Desconocido,29.0,54.0,2.0,web,no,18736.72,Mala atención postventa
+115.0,2022-07-14,Mouse,Logitech,perifericos,3680.57,1.0,24.0,"56,00",Desconocido,web,si,3680.57,Mala atención postventa
+507.5,2022-07-16,Mouse,Xiaomi,redes,2227.61,4.0,10.0,33.0,5.0,web,no,8910.44,Entrega rápida y producto original
+117.0,2022-07-17,Impresora, DELL ,Desconocido,5427.61,1.0,25.0,113.0,"2,00",web,no,5427.61,El pedido llegó incompleto
+118.0,2022-07-19,Audifonos,Logitech,computo,1428.85,1.0,35.0,Desconocido,4.0,web,si,1428.85,Entrega rápida y producto original
+119.0,2022-07-21,SSD,Logitech,redes,2933.63,3.0,8.0,49.0,1.0,tienda,no,8800.89,Entrega rápida y producto original
+120.0,2022-07-22,Audifonos,Asus,computo,3581.64,1.0,29.0,86.0,2.0,web,no,3581.64,Recibí un producto diferente
+507.5,2022-07-24,Laptop,Asus,perifericos,6318.14,2.0,25.0,104.0,5.0,web,si,12636.28,Buena asesoría antes de comprar
+122.0,2022-07-26,SSD,HP,moviles,2554.62,2.0,8.0,74.0,2.0,web,si,5109.24,Buena asesoría antes de comprar
+123.0,2022-07-27,Impresora,Asus,moviles,-4523.04,2.0,10.0,77.0,2.0,web,si,9046.08,Entrega rápida y producto original
+124.0,2022-07-29,Monitor,Samsung,redes,2056.63,3.0,25.0,78.0,5.0,marketplace,no,6169.89,Buen precio y garantía
+125.0,2022-07-31,Teclado,Asus,perifericos,131.88,3.0,4.0,100.0,3.0,tienda,si,"395,64",Buena asesoría antes de comprar
+126.0,2022-08-02,Impresora,Lenovo,moviles,2726.65,2.0,36.0,22.0,Desconocido,marketplace,no,5453.3,Mala atención postventa
+127.0,2022-08-03,Mouse,Xiaomi,redes,2216.82,1.0,4.0,24.0,4.0,marketplace,si,2216.82,Producto funcionando perfectamente
+128.0,2022-08-05,Monitor,Dell,almacenamiento,6056.08,1.0,20.0,67.0,Desconocido,tienda,no,6056.08,Excelente atención técnica
+129.0,2022-08-07,SSD,Asus,computo,3536.22,"4,00",15.0,91.0,2.0,tienda,si,14144.88,Entrega rápida y producto original
+130.0,2022-08-08,Mouse,Lenovo,perifericos,974.54,3.0,30.0,116.0,"1,00",tienda,si,Desconocido,Demoraron en atender la garantía
+131.0,2022-08-10,Router,Samsung,computo,3655.51,3.0,24.0,47.0,3.0,tienda,no,10966.53,Demoraron en atender la garantía
+132.0,2022-08-12,Audifonos,Lenovo,perifericos,3429.07,2.0,9.0,111.0,5.0,tienda,no,6858.14,Demoraron en atender la garantía
+133.0,2022-08-14,Router,Asus,almacenamiento,3966.76,2.0,34.0,61.0,1.0,web,si,7933.52,Producto funcionando perfectamente
+134.0,2022-08-15,Audifonos,Xiaomi,redes,6102.83,"3,00",30.0,43.0,4.0,tienda,si,18308.49,Entrega rápida y producto original
+135.0,2022-08-17,Monitor,Samsung,computo,4215.77,3.0,12.0,72.0,5.0,web,no,12647.31,Entrega rápida y producto original
+136.0,2022-08-19,Monitor,Apple,moviles,3551.68,1.0,30.0,23.0,Desconocido,tienda,no,3551.68,Demoraron en atender la garantía
+137.0,2022-08-20,Router,Logitech,computo,4464.44,1.0,31.0,23.0,"2,00",tienda,si,Desconocido,Mala atención postventa
+138.0,2022-08-22,Mouse,Samsung,computo,3913.92,Desconocido,20.0,5.0,1.0,web,si,3913.92,El producto presentó fallas
+139.0,2022-08-24,Monitor,Asus,computo,986.99,4.0,9.0,3.0,5.0,marketplace,si,3947.96,Mala atención postventa
+140.0,2022-08-25,Laptop,Apple,almacenamiento,6497.13,3.0,7.0,29.0,2.0,web,si,19491.39,Producto funcionando perfectamente
+141.0,2022-08-27,Router,Logitech,moviles,6456.11,4.0,5.0,109.0,1.0,web,no,25824.44,Demoraron en atender la garantía
+142.0,2022-08-29,Router,Logitech,almacenamiento,5224.22,3.0,12.0,-58.0,1.0,Desconocido,si,15672.66,Buen precio y garantía
+143.0,2022-08-31,Tablet,HP,Desconocido,509.77,3.0,14.0,80.0,4.0,marketplace,no,1529.31,Recibí un producto diferente
+144.0,2022-09-01,Monitor,Dell,perifericos,2930.55,1.0,35.0,21.0,1.0,web,no,"2930,55",Buen precio y garantía
+145.0,2022-09-03,Desconocido,Lenovo,redes,5280.22,Desconocido,25.0,Desconocido,4.0,web,no,21120.88,Excelente atención técnica
+146.0,2022-09-05,Monitor,Lenovo,almacenamiento,3703.09,2.0,20.0,42.0,4.0,marketplace,si,7406.18,Buena asesoría antes de comprar
+147.0,2022-09-06,Tablet,Dell,redes,878.71,"1,00",10.0,17.0,2.0,marketplace,si,878.71,El producto presentó fallas
+148.0,2022-09-08,Desconocido,Logitech,moviles,223.77,-2.0,26.0,74.0,4.0,marketplace,Desconocido,447.54,Buena asesoría antes de comprar
+149.0,2022-09-10,Mouse,HP,redes,2290.07,2.0,12.0,63.0,4.0,tienda,si,4580.14,Demoraron en atender la garantía
+150.0,Desconocido,Celular,Apple,perifericos,1561.95,4.0,0.0,58.0,1.0,tienda,no,6247.8,Buena asesoría antes de comprar
+151.0,2022-09-13,Mouse,xiaomi,perifericos,230.65,2.0,36.0,51.0,2.0,web,si,461.3,Mala atención postventa
+152.0,Desconocido,Tablet,Desconocido,redes,3914.03,3.0,26.0,33.0,1.0,marketplace,si,11742.09,Desconocido
+153.0,2022-09-17,Teclado,Apple,moviles,4527.42,1.0,14.0,77.0,"1,00",marketplace,no,4527.42,Entrega rápida y producto original
+154.0,2022-09-18,Mouse,Dell,computo,4912.75,-1.0,18.0,36.0,1.0,web,no,4912.75,Excelente atención técnica
+507.5,2022-09-20,Desconocido,Xiaomi,redes,2965.29,3.0,15.0,8.0,5.0,tienda,si,8895.87,demoraron en atender la garantía
+156.0,Desconocido,Mouse,Xiaomi,computo,6450.68,3.0,3.0,70.0,3.0,marketplace,no,19352.04,Excelente atención técnica
+157.0,2022-09-23,Audifonos,HP,moviles,5849.74,3.0,-27.0,56.0,1.0,marketplace,Desconocido,17549.22,demoraron en atender la garantía
+158.0,2022-09-25,Celular,Desconocido,Desconocido,4453.07,1.0,5.0,78.0,2.0,web,si,4453.07,El producto presentó fallas
+159.0,2022-09-27,Audifonos,Logitech,computo,Desconocido,1.0,6.0,67.0,Desconocido, TIENDA ,no,923.16,Mala atención postventa
+160.0,2022-09-29,SSD,Logitech,almacenamiento,5049.84,Desconocido,19.0,91.0,3.0,marketplace,si,15149.52,Producto funcionando perfectamente
+161.0,2022-09-30,Router,Apple,redes,1175.89,4.0,9.0,8.0,4.0,tienda,no,"4703,56",el pedido llegó incompleto
+162.0,2022-10-02,SSD,Samsung,almacenamiento,1156.05,-4.0,8.0,102.0,5.0,tienda,no,4624.2,excelente atención técnica
+163.0,2022-10-04,Router,Logitech,Desconocido,5109.86,3.0,16.0,86.0,4.0,marketplace,si,15329.58,Entrega rápida y producto original
+164.0,2022-10-05,Teclado,Dell,almacenamiento,4497.3,3.0,17.0,82.0,2.0,web,Desconocido,13491.9,Buena asesoría antes de comprar
+165.0,2022-10-07,Mouse,Dell,computo,1885.21,1.0,0.0,44.0,2.0,tienda,si,1885.21,Producto funcionando perfectamente
+166.0,2022-10-09,Audifonos,Dell,redes,2160.3,3.0,-29.0,59.0,1.0,web,no,6480.9,Desconocido
+167.0,2022-10-10,Monitor,Dell,redes,"2282,74",2.0,8.0,Desconocido,1.0,tienda,no,4565.48,Producto funcionando perfectamente
+168.0,2022-10-12,SSD,Samsung,almacenamiento,5525.4,1.0,9.0,23.0,"1,00",web,si,5525.4, EL PEDIDO LLEGÓ INCOMPLETO 
+507.5,2022-10-14,Mouse,Dell,almacenamiento,227.62,4.0,30.0,4.0,3.0,marketplace,no,910.48,Excelente atención técnica
+170.0,2022-10-16,Celular,Logitech,computo,4292.55,3.0,28.0,115.0,3.0,web,si,12877.65,buena asesoría antes de comprar
+171.0,2022-10-17,Celular,Asus,moviles,1956.76,2.0,7.0,14.0,1.0,tienda,no,3913.52,Excelente atención técnica
+172.0,2022-10-19,Audifonos,Samsung,redes,505.34,1.0,Desconocido,62.0,Desconocido,marketplace,no,505.34,Recibí un producto diferente
+173.0,2022-10-21,Router,Asus,moviles,1380.33,2.0,21.0,86.0,1.0,tienda,no,2760.66,Excelente atención técnica
+174.0,2022-10-22,Laptop,Samsung,perifericos,2997.4,3.0,26.0,22.0,1.0,marketplace,si,8992.2,El producto presentó fallas
+175.0,2022-10-24,Monitor,Lenovo,moviles,Desconocido,4.0,8.0,27.0,5.0,marketplace,si,363.8,Producto funcionando perfectamente
+176.0,2022-10-26,Tablet,Desconocido,perifericos,1700.21,3.0,3.0,79.0,"3,00",marketplace,no,5100.63,Excelente atención técnica
+177.0,2022-10-28,Impresora,Lenovo,almacenamiento,6481.73,"2,00",1.0,105.0,2.0,web,no,12963.46,Entrega rápida y producto original
+178.0,2022-10-29,Celular,Xiaomi, COMPUTO ,3702.86,2.0,30.0,27.0,5.0,tienda,si,7405.72,Entrega rápida y producto original
+179.0,2022-10-31,SSD,Samsung,Desconocido,Desconocido,1.0,2.0,71.0,"5,00",web,no,785.44,Demoraron en atender la garantía
+180.0,2022-11-02,Monitor,Lenovo,perifericos,Desconocido,4.0,25.0,42.0,2.0,web,si,18557.96,Buen precio y garantía
+181.0,Desconocido,Desconocido,Samsung,Desconocido,Desconocido,Desconocido,25.0,94.0,1.0,Desconocido,no,15798.33,Entrega rápida y producto original
+182.0,2022-11-05,Audifonos,Apple,redes,-3183.31,1.0,36.0,116.0,4.0,tienda,no,3183.31,Buena asesoría antes de comprar
+183.0,2022-11-07,Desconocido,Apple,perifericos,4265.75,3.0,12.0,112.0,1.0,tienda,no,12797.25,Demoraron en atender la garantía
+184.0,2022-11-08,Celular,Apple,moviles,3080.98,2.0,Desconocido,29.0,4.0,tienda,si,6161.96,El pedido llegó incompleto
+185.0,2022-11-10,Impresora,Samsung,moviles,1641.84,2.0,29.0,72.0,1.0,marketplace,no,3283.68,Buena asesoría antes de comprar
+186.0,2022-11-12,Desconocido,Dell,redes,5711.63,4.0,Desconocido,98.0,3.0,web,si,22846.52,El producto presentó fallas
+187.0,2022-11-14,Monitor,Apple,almacenamiento,402.66,3.0,33.0,103.0,Desconocido,web,no,1207.98,Desconocido
+188.0,2022-11-15,Teclado,Lenovo,computo,5866.27,Desconocido,34.0,13.0,2.0,web,si,23465.08,Mala atención postventa
+189.0,2022-11-17,Teclado,Asus,almacenamiento,5560.34,3.0,17.0,18.0,2.0,marketplace,si,16681.02,Mala atención postventa
+190.0,2022-11-19,Desconocido,Asus,perifericos,51.38,4.0,10.0,94.0,4.0,marketplace,no,205.52,Recibí un producto diferente
+191.0,2022-11-20,Tablet,HP,almacenamiento,4144.45,1.0,10.0,"35,00",3.0,marketplace,si,4144.45,Entrega rápida y producto original
+192.0,2022-11-22,Monitor,Desconocido,perifericos,5623.62,4.0,19.0,46.0,2.0,web,no,22494.48,Buen precio y garantía
+193.0,2022-11-24,Celular,Samsung,perifericos,Desconocido,2.0,"8,00",Desconocido,"2,00",marketplace,no,7015.98,Entrega rápida y producto original
+194.0,2022-11-26,Router,HP,almacenamiento,4940.86,1.0,10.0,-57.0,5.0,tienda,no,4940.86,Buen precio y garantía
+195.0,2022-11-27,Audifonos,Apple,perifericos,3700.54,Desconocido,"2,00",-19.0,1.0,marketplace,Desconocido,11101.62,Excelente atención técnica
+196.0,2022-11-29,Teclado,Lenovo,almacenamiento,342.33,1.0,8.0,Desconocido,4.0,web,no,342.33, ENTREGA RÁPIDA Y PRODUCTO ORIGINAL 
+197.0,2022-12-01,Impresora,Dell,redes,Desconocido,3.0,2.0,104.0,3.0,web,si,4576.8,Buen precio y garantía
+198.0,2022-12-02,Mouse,Xiaomi,perifericos,5091.62,2.0,31.0,78.0,1.0,tienda,si,10183.24,Buena asesoría antes de comprar
+199.0,2022-12-04,Teclado,Logitech,moviles,Desconocido,4.0,28.0,Desconocido,3.0,Desconocido,no,8594.92,Demoraron en atender la garantía
+200.0,2022-12-06,Desconocido,Logitech,redes,5367.42,3.0,19.0,65.0,1.0,web,no,16102.26,Buen precio y garantía
+201.0,2022-12-07,Monitor,Apple,redes,1156.18,3.0,28.0,21.0,4.0,web,si,3468.54,Excelente atención técnica
+202.0,2022-12-09,SSD,Xiaomi,redes,2964.82,4.0,Desconocido,74.0,2.0,marketplace,no,11859.28,Producto funcionando perfectamente
+203.0,2022-12-11,Mouse,Asus,perifericos,-755.72,2.0,17.0,26.0,2.0,web,si,1511.44,Buena asesoría antes de comprar
+204.0,2022-12-13,Router,Samsung,almacenamiento,910.69,4.0,19.0,106.0,3.0,web,si,3642.76,Desconocido
+205.0,2022-12-14,Tablet,Xiaomi,computo,4219.69,2.0,27.0,106.0,5.0,marketplace,si,8439.38,Buena asesoría antes de comprar
+206.0,2022-12-16,Laptop,Samsung,redes,3591.57,4.0,21.0,105.0,2.0,tienda,no,14366.28,Entrega rápida y producto original
+207.0,2022-12-18,Mouse,Lenovo,moviles,3912.38,3.0,26.0,118.0,4.0,tienda,no,11737.14,Buena asesoría antes de comprar
+208.0,2022-12-19,SSD,Lenovo,almacenamiento,3777.37,Desconocido,30.0,32.0,5.0,web,Desconocido,7554.74,Buen precio y garantía
+209.0,2022-12-21,Router,Lenovo,almacenamiento,5357.18,1.0,"24,00",111.0,1.0,tienda,si,5357.18,Buen precio y garantía
+210.0,2022-12-23,SSD,Logitech,almacenamiento,4640.04,2.0,7.0,105.0,1.0,tienda,si,9280.08,Demoraron en atender la garantía
+211.0,2022-12-24,Audifonos,Lenovo,redes,Desconocido,4.0,11.0,63.0,1.0,marketplace,no,5171.36,Desconocido
+212.0,2022-12-26,Mouse,Logitech,perifericos,3996.58,2.0,20.0,0.0,3.0,tienda,no,7993.16,Excelente atención técnica
+213.0,2022-12-28,Impresora,Logitech,almacenamiento,708.05,3.0,25.0,7.0,2.0,marketplace,no,2124.15,Desconocido
+214.0,2022-12-30,Celular,Desconocido,almacenamiento,3988.07,2.0,Desconocido,"53,00",4.0,tienda,si,7976.14,Demoraron en atender la garantía
+215.0,Desconocido,Tablet,Asus,perifericos,1661.98,2.0,6.0,60.0,1.0,marketplace,no,3323.96,Buen precio y garantía
+216.0,2023-01-02,Teclado,Logitech,perifericos,697.06,3.0,"2,00",91.0,3.0,web,si,2091.18,Producto funcionando perfectamente
+217.0,2023-01-04,Impresora,Asus,computo,3322.25,1.0,19.0,66.0,-5.0,Desconocido,no,3322.25,Buena asesoría antes de comprar
+218.0,2023-01-05,Mouse,Apple,computo,Desconocido,Desconocido,30.0,107.0,4.0,marketplace,no,Desconocido,Producto funcionando perfectamente
+219.0,2023-01-07,Impresora,HP,perifericos,5970.9,4.0,33.0,12.0,4.0,tienda,si,"23883,60",buen precio y garantía
+507.5,Desconocido,Audifonos,Lenovo,computo,350.64,3.0,2.0,100.0,4.0,tienda,no,1051.92,Buena asesoría antes de comprar
+221.0,2023-01-11,Desconocido,Samsung,perifericos,4237.45,Desconocido,34.0,83.0,1.0,marketplace,no,"16949,80",Buen precio y garantía
+222.0,2023-01-12,Celular,Samsung,redes,4478.62,1.0,31.0,25.0,1.0,Desconocido,no,4478.62,Demoraron en atender la garantía
+223.0,2023-01-14,Impresora,Xiaomi,Desconocido,"3720,26",Desconocido,21.0,16.0,3.0,marketplace,si,3720.26,Buen precio y garantía
+224.0,2023-01-16,Monitor,Logitech,moviles,3391.75,1.0,10.0,Desconocido,2.0,web,si,3391.75,Excelente atención técnica
+225.0,2023-01-17,Celular,Samsung,Desconocido,88.32,3.0,"17,00",72.0,4.0,tienda,si,264.96,Buen precio y garantía
+507.5,2023-01-19,SSD,Lenovo,computo,5136.53,Desconocido,9.0,62.0,Desconocido,marketplace,no,10273.06,Producto funcionando perfectamente
+227.0,2023-01-21,Desconocido,Samsung,computo,"3645,96",1.0,19.0,14.0,4.0,marketplace,no,3645.96,Buena asesoría antes de comprar
+507.5,2023-01-22,Laptop,Xiaomi,perifericos,2845.76,3.0,Desconocido,109.0,4.0,tienda,si,8537.28,Entrega rápida y producto original
+229.0,2023-01-24,Audifonos,HP,moviles,4342.41,Desconocido,31.0,71.0,4.0,web,si,4342.41,Desconocido
+230.0,2023-01-26,Tablet,Logitech,almacenamiento,4594.21,3.0,22.0,38.0,Desconocido,web,si,13782.63,Recibí un producto diferente
+231.0,2023-01-28,Celular,Desconocido,computo,1100.9,1.0,18.0,59.0,4.0,web,si,1100.9,Buena asesoría antes de comprar
+232.0,2023-01-29,Desconocido,Xiaomi,almacenamiento,5611.69,2.0,3.0,-111.0,1.0,web,si,11223.38,buena asesoría antes de comprar
+233.0,2023-01-31,Audifonos,Apple,computo,1986.13,4.0,Desconocido,96.0,4.0,web,no,7944.52,Demoraron en atender la garantía
+234.0,2023-02-02,Impresora,Asus,redes,3552.72,"4,00",19.0,84.0,5.0,tienda,no,14210.88,Demoraron en atender la garantía
+235.0,2023-02-03,Celular,Logitech,computo,6464.07,4.0,"23,00",21.0,2.0,tienda,Desconocido,25856.28,Mala atención postventa
+236.0,2023-02-05,Celular,Xiaomi,computo,315.22,1.0,19.0,28.0,1.0,tienda,no,315.22,Buen precio y garantía
+237.0,2023-02-07,Desconocido,Asus,perifericos,1846.15,4.0,8.0,92.0,4.0,web,no,7384.6,Buena asesoría antes de comprar
+238.0,2023-02-09,Monitor,Apple,perifericos,4373.68,4.0,26.0,59.0,4.0,marketplace,si,17494.72,Producto funcionando perfectamente
+507.5,2023-02-10,Router,HP,Desconocido,4391.19,3.0,1.0,2.0,2.0,marketplace,si,-13173.57,Desconocido
+240.0,Desconocido,Impresora,Lenovo,moviles,492.83,3.0,29.0,73.0,-1.0,web,si,1478.49,Buena asesoría antes de comprar
+241.0,2023-02-14,Teclado,Lenovo,perifericos,5186.2,1.0,15.0,118.0,3.0,tienda,si,5186.2,Desconocido
+242.0,Desconocido,Tablet,Lenovo,moviles,Desconocido,2.0,19.0,45.0,2.0,marketplace,si,6364.98,Demoraron en atender la garantía
+243.0,2023-02-17,Teclado,Logitech,perifericos,2046.61,2.0,34.0,48.0,4.0,web,si,4093.22,El pedido llegó incompleto
+244.0,2023-02-19,Router,Logitech,computo,2108.08,4.0,21.0,55.0,5.0,marketplace,si,8432.32,Excelente atención técnica
+245.0,2023-02-20,Tablet,Apple,perifericos,5031.57,1.0,"10,00",28.0,5.0,marketplace,no,5031.57,Entrega rápida y producto original
+246.0,2023-02-22,Celular,Logitech,almacenamiento,"3401,76",3.0,17.0,2.0,3.0,tienda,no,Desconocido,El producto presentó fallas
+247.0,2023-02-24,Teclado,Samsung,moviles,5004.71,3.0,30.0,11.0,1.0,tienda,no,15014.13,Excelente atención técnica
+507.5,2023-02-26,Audifonos,Xiaomi,redes,Desconocido,3.0,"14,00",80.0,4.0,tienda,si,12976.29,El pedido llegó incompleto
+249.0,2023-02-27,Monitor,Dell,perifericos,735.0,1.0,9.0,42.0,4.0,tienda,si,735.0,Entrega rápida y producto original
+250.0,2023-03-01,Mouse,Asus,computo,40.26,1.0,22.0,84.0,"4,00",tienda,no,40.26,Producto funcionando perfectamente
+251.0,2023-03-03,Audifonos,Logitech,moviles,2395.32,2.0,4.0,34.0,3.0,tienda,si,4790.64,Recibí un producto diferente
+252.0,Desconocido,Tablet,Logitech,computo,6271.06,-2.0,8.0,119.0,1.0,web,si,12542.12,Entrega rápida y producto original
+507.5,2023-03-06,Router,Dell,redes,1197.92,3.0,13.0,17.0,1.0,marketplace,no,3593.76,Desconocido
+254.0,2023-03-08,Desconocido,Asus,almacenamiento,945.42,2.0,"26,00",Desconocido,5.0,tienda,no,"-1890,84",Buen precio y garantía
+255.0,2023-03-09,Impresora,Lenovo,computo,1839.76,3.0,32.0,100.0,3.0,tienda,si,5519.28,Excelente atención técnica
+256.0,2023-03-11,Impresora,Apple,redes,4732.09,3.0,21.0,13.0,1.0,tienda,no,14196.27,El pedido llegó incompleto
+257.0,2023-03-13,Audifonos,Desconocido,almacenamiento,4341.0,Desconocido,9.0,14.0,-2.0,tienda,si,4341.0,Producto funcionando perfectamente
+258.0,2023-03-15,Monitor,HP,perifericos,5070.1,Desconocido,-16.0,"53,00","4,00",tienda,si,15210.3,El producto presentó fallas
+259.0,2023-03-16,Audifonos,Asus,moviles,421.38,4.0,2.0,93.0,1.0,tienda,si,1685.52,Buena asesoría antes de comprar
+260.0,2023-03-18,Audifonos,Samsung,perifericos,5686.97,1.0,5.0,1.0,4.0,marketplace,no,5686.97,Producto funcionando perfectamente
+261.0,2023-03-20,mouse,Logitech,redes,Desconocido,4.0,28.0,78.0,"1,00",marketplace,si,10923.8,Buena asesoría antes de comprar
+262.0,2023-03-21,Teclado,Lenovo,redes,Desconocido,3.0,33.0,42.0,2.0,tienda,Desconocido,8640.66,Demoraron en atender la garantía
+263.0,2023-03-23,Celular,HP,computo,5379.66,3.0,18.0,110.0,5.0,tienda,si,16138.98,Buena asesoría antes de comprar
+264.0,Desconocido,Celular,Samsung,moviles,6189.41,3.0,26.0,41.0,5.0,web,no,18568.23,Excelente atención técnica
+265.0,2023-03-27,Tablet,Logitech,almacenamiento,416.96,4.0,12.0,Desconocido,Desconocido,web,no,1667.84,Excelente atención técnica
+507.5,2023-03-28,monitor,Apple,redes,1638.34,3.0,Desconocido,68.0,1.0,web,no,4915.02,Producto funcionando perfectamente
+267.0,2023-03-30,Tablet,HP,redes,"260,07",3.0,10.0,87.0,2.0,tienda,si,780.21,Producto funcionando perfectamente
+268.0,2023-04-01,Tablet,Desconocido,moviles,865.42,Desconocido,24.0,63.0,4.0,tienda,no,1730.84,Excelente atención técnica
+269.0,2023-04-02,SSD,Logitech,perifericos,2357.9,3.0,13.0,28.0,4.0, MARKETPLACE ,no,7073.7,Entrega rápida y producto original
+270.0,2023-04-04,Impresora,HP,computo,762.9,Desconocido,32.0,104.0,1.0,web,no,762.9,Entrega rápida y producto original
+271.0,2023-04-06,Impresora,Asus,computo,1396.34,1.0,4.0,76.0,Desconocido,web,no,1396.34,Buen precio y garantía
+272.0,2023-04-07,Audifonos,Desconocido,almacenamiento,Desconocido,"2,00",25.0,83.0,2.0,marketplace,Desconocido,9612.44,Buena asesoría antes de comprar
+273.0,Desconocido,Tablet,HP,redes,5574.07,4.0,11.0,14.0,3.0,web,si,22296.28,Buena asesoría antes de comprar
+274.0,2023-04-11,Router,Xiaomi,Desconocido,2164.36,2.0,26.0,113.0,5.0,web,no,4328.72,El pedido llegó incompleto
+275.0,2023-04-13,Laptop,HP,moviles,3047.6,2.0,7.0,55.0,5.0,marketplace,no,6095.2,Entrega rápida y producto original
+276.0,2023-04-14,Impresora,Apple,computo,961.19,2.0,24.0,50.0,5.0,marketplace,no,1922.38,Buena asesoría antes de comprar
+277.0,2023-04-16,Teclado,Logitech,redes,1607.98,1.0,34.0,57.0,3.0,tienda,si,Desconocido,Entrega rápida y producto original
+278.0,2023-04-18,Teclado,Dell,moviles,2213.04,3.0,34.0,91.0,5.0,web, SI ,6639.12,Recibí un producto diferente
+279.0,2023-04-19,Impresora,Dell,almacenamiento,-1147.4,4.0,15.0,Desconocido,1.0,web,no,4589.6,Entrega rápida y producto original
+280.0,2023-04-21,SSD,Desconocido,computo,4577.37,1.0,26.0,64.0,2.0,web,si,4577.37,Desconocido
+507.5,2023-04-23,Router,Logitech,almacenamiento,6353.39,4.0,Desconocido,2.0,3.0,tienda,Desconocido,25413.56,Buena asesoría antes de comprar
+282.0,2023-04-25,Mouse,Samsung,computo,5795.3,4.0,25.0,41.0,1.0,marketplace,no,"23181,20",Excelente atención técnica
+283.0,2023-04-26,SSD,Lenovo,almacenamiento,1041.61,4.0,Desconocido,"99,00",5.0,marketplace,si,4166.44,Buena asesoría antes de comprar
+284.0,2023-04-28,Teclado,Logitech,moviles,6458.1,2.0,14.0,54.0,1.0,web,si,12916.2,Producto funcionando perfectamente
+285.0,2023-04-30,Router,Desconocido,almacenamiento,182.29,2.0,12.0,118.0,1.0,web,no,364.58,Buen precio y garantía
+286.0,2023-05-01,Impresora,Lenovo,computo,501.14,4.0,8.0,Desconocido,2.0,marketplace,no,2004.56,Buen precio y garantía
+287.0,2023-05-03,Monitor,Xiaomi,Desconocido,5294.77,3.0,36.0,29.0,1.0,marketplace,no,15884.31,Producto funcionando perfectamente
+288.0,2023-05-05,Laptop,Logitech,redes,4972.72,2.0,15.0,29.0,2.0,marketplace,si,9945.44,Excelente atención técnica
+289.0,2023-05-06,SSD,HP,moviles,6239.93,2.0,4.0,109.0,5.0,tienda,si,12479.86,Buen precio y garantía
+290.0,Desconocido,Celular,Dell,computo,Desconocido,3.0,4.0,67.0,2.0,web,Desconocido,1633.02,El producto presentó fallas
+291.0,2023-05-10,Audifonos,Logitech,perifericos,5824.4,3.0,33.0,41.0,2.0,web,no,17473.2,El producto presentó fallas
+507.5,2023-05-12,Teclado,Logitech,almacenamiento,5824.07,3.0,9.0,109.0,1.0,tienda,no,17472.21,El pedido llegó incompleto
+293.0,2023-05-13,Impresora,Dell,perifericos,6190.59,1.0,14.0,50.0,2.0,tienda,si,6190.59,Entrega rápida y producto original
+294.0,2023-05-15,Celular,Samsung,perifericos,5735.0,4.0,"33,00",6.0,3.0,web,Desconocido,22940.0,Buen precio y garantía
+295.0,2023-05-17,Desconocido, SAMSUNG ,redes,437.52,-3.0,17.0,88.0,3.0,tienda,si,1312.56,Buena asesoría antes de comprar
+296.0,2023-05-18,Mouse,Samsung,redes,"3622,08",1.0,26.0,78.0,-1.0,tienda,si,3622.08,Excelente atención técnica
+297.0,2023-05-20,Teclado,Asus,perifericos,860.99,2.0,1.0,83.0,-4.0,tienda,no,1721.98,Excelente atención técnica
+298.0,2023-05-22,Mouse,Desconocido,computo,3109.98,4.0,19.0,71.0,3.0,tienda,no,12439.92,Demoraron en atender la garantía
+299.0,2023-05-24,Celular,Samsung,perifericos,913.92,1.0,19.0,113.0,Desconocido,marketplace,si,913.92,Buena asesoría antes de comprar
+300.0,2023-05-25,Monitor,Logitech,moviles,2434.26,2.0,5.0,114.0,Desconocido,tienda,no,4868.52,Entrega rápida y producto original
+301.0,Desconocido,SSD,Desconocido,computo,5764.57,2.0,0.0,77.0,4.0,web,si,Desconocido,Entrega rápida y producto original
+302.0,2023-05-29,Router,Lenovo,computo,"1967,19",2.0,2.0,99.0,1.0,web,si,-3934.38,Buen precio y garantía
+303.0,2023-05-30,Celular,Dell,almacenamiento,1470.86,2.0,20.0,79.0,2.0,tienda,si,2941.72,El producto presentó fallas
+304.0,2023-06-01,Desconocido,Apple,computo,3285.4,3.0,Desconocido,Desconocido,5.0,tienda,no,9856.2,Excelente atención técnica
+305.0,2023-06-03,Teclado,Samsung,redes,2617.4,1.0,"24,00",23.0,5.0,marketplace,no,2617.4,Demoraron en atender la garantía
+306.0,2023-06-04,Impresora,Logitech,perifericos,6298.5,1.0,17.0,Desconocido,4.0,tienda,no,6298.5,Excelente atención técnica
+507.5,2023-06-06,Mouse,Lenovo,almacenamiento,4129.23,3.0,11.0,64.0,4.0,tienda,no,12387.69,El pedido llegó incompleto
+308.0,Desconocido,Audifonos,HP,almacenamiento,4049.24,4.0,31.0,15.0,4.0,web,no,16196.96,Excelente atención técnica
+309.0,2023-06-10,Audifonos,Asus,redes,1619.2,4.0,16.0,113.0,3.0,marketplace,si,6476.8,Buena asesoría antes de comprar
+310.0,2023-06-11,Impresora,Lenovo,moviles,1379.53,4.0,Desconocido,37.0,Desconocido,marketplace,si,5518.12,Excelente atención técnica
+311.0,2023-06-13,Teclado,Dell,almacenamiento,-156.59,2.0,2.0,"57,00",2.0,marketplace,no,313.18,Recibí un producto diferente
+312.0,2023-06-15,Audifonos,Dell,almacenamiento,5342.77,1.0,16.0,108.0,5.0,web,si,5342.77,Buena asesoría antes de comprar
+313.0,2023-06-16,Audifonos,Dell,almacenamiento,Desconocido,1.0,"9,00",92.0,3.0,marketplace,no,208.78,Buena asesoría antes de comprar
+507.5,2023-06-18,Tablet,Dell,redes,4745.35,2.0,12.0,46.0,-5.0,tienda,no,9490.7,Demoraron en atender la garantía
+315.0,2023-06-20,Tablet,Lenovo,computo,3398.69,1.0,36.0,105.0,4.0,Desconocido,no,3398.69,Excelente atención técnica
+316.0,2023-06-21,Laptop,Samsung,perifericos,932.74,4.0,7.0,88.0,3.0,tienda,no,3730.96,Excelente atención técnica
+317.0,2023-06-23,Tablet,Logitech,almacenamiento,1743.62,2.0,21.0,99.0,4.0,tienda,no,3487.24,Buena asesoría antes de comprar
+318.0,2023-06-25,Celular,Apple,perifericos,1189.24,4.0,18.0,58.0,Desconocido,marketplace,no,4756.96,Buen precio y garantía
+319.0,2023-06-27,Monitor,Apple,redes,4025.64,3.0,7.0,38.0,5.0,web,no,12076.92,Desconocido
+320.0,2023-06-28,Router,Logitech,computo,4053.61,4.0,5.0,37.0,4.0,tienda,si,16214.44,Producto funcionando perfectamente
+321.0,2023-06-30,Monitor,Logitech,Desconocido,Desconocido,3.0,Desconocido,7.0,3.0,web,no,1969.02,buen precio y garantía
+322.0,2023-07-02, TABLET ,Samsung,moviles,1838.61,Desconocido,25.0,38.0,5.0,web,no,3677.22,Buen precio y garantía
+323.0,2023-07-03,SSD,Samsung,redes,1393.92,1.0,25.0,38.0,3.0,tienda,no,1393.92,Desconocido
+324.0,2023-07-05,Laptop,HP,perifericos,5561.72,3.0,36.0,38.0,1.0,tienda,no,16685.16,Excelente atención técnica
+507.5,2023-07-07,Mouse,Xiaomi,almacenamiento,6030.18,1.0,22.0,58.0,1.0,marketplace,si,6030.18,Producto funcionando perfectamente
+326.0,2023-07-09,Router,Lenovo,almacenamiento,1453.79,3.0,24.0,11.0,1.0,web,si,4361.37,Entrega rápida y producto original
+327.0,2023-07-10,Impresora,Lenovo,redes,4927.19,3.0,21.0,"92,00",2.0,web,no,14781.57,Demoraron en atender la garantía
+328.0,2023-07-12,Monitor,Apple,Desconocido,464.0,4.0,8.0,81.0,1.0,tienda,no,1856.0,Buen precio y garantía
+329.0,2023-07-14,Laptop,Lenovo,computo,1981.2,3.0,5.0,17.0,3.0,web,no,5943.6,producto funcionando perfectamente
+330.0,2023-07-15,Laptop,dell,perifericos,2045.78,3.0,33.0,77.0,4.0,tienda,si,6137.34,Entrega rápida y producto original
+331.0,2023-07-17,Monitor,Logitech,redes,"5042,34",3.0,2.0,Desconocido,3.0,tienda,no,15127.02,Buen precio y garantía
+332.0,2023-07-19,Monitor,Dell,almacenamiento,"1106,09",4.0,16.0,42.0,3.0,tienda,no,4424.36,Entrega rápida y producto original
+507.5,2023-07-20,Impresora,Xiaomi,almacenamiento,5700.96,3.0,Desconocido,88.0,3.0,marketplace,si,17102.88,Buena asesoría antes de comprar
+507.5,2023-07-22,Audifonos,Apple,computo,5558.79,4.0,32.0,38.0,5.0,web,no,22235.16,Demoraron en atender la garantía
+335.0,2023-07-24,Monitor,Samsung,computo,-5575.13,4.0,26.0,94.0,2.0,tienda,no,22300.52,Buen precio y garantía
+507.5,2023-07-26,Router,Xiaomi,moviles,5708.72,3.0,12.0,46.0,5.0,web,si,Desconocido, ENTREGA RÁPIDA Y PRODUCTO ORIGINAL 
+337.0,2023-07-27,Laptop,Logitech,perifericos,Desconocido,3.0,13.0,110.0,2.0,marketplace,si,9620.25,Buen precio y garantía
+338.0,2023-07-29,Monitor,Lenovo,moviles,Desconocido,2.0,15.0,104.0,3.0,web,si,2976.24,Entrega rápida y producto original
+339.0,2023-07-31,Teclado,Asus,almacenamiento,6227.16,2.0,8.0,66.0,3.0,marketplace,si,Desconocido,Excelente atención técnica
+340.0,2023-08-01,Audifonos,Asus,almacenamiento,902.71,1.0,4.0,14.0,1.0,tienda,si,902.71,Buena asesoría antes de comprar
+341.0,2023-08-03,Celular,Xiaomi,computo,4338.95,2.0,26.0,51.0,4.0,web,no,8677.9,El producto presentó fallas
+342.0,2023-08-05,Impresora,Desconocido,almacenamiento,1643.24,1.0,3.0,77.0,2.0,tienda,si,1643.24,Recibí un producto diferente
+343.0,2023-08-07,Celular,Logitech,perifericos,4457.35,4.0,5.0,46.0,5.0,tienda,si,17829.4,Buen precio y garantía
+344.0,2023-08-08,Desconocido,Logitech,redes,5952.93,1.0,5.0,"10,00",4.0,marketplace,Desconocido,5952.93,Desconocido
+345.0,2023-08-10,Impresora,Dell,almacenamiento,Desconocido,2.0,20.0,45.0,2.0,web,si,5130.66,Buena asesoría antes de comprar
+346.0,2023-08-12,SSD,Desconocido,perifericos,5182.88,1.0,32.0,Desconocido,2.0,marketplace,si,5182.88,Recibí un producto diferente
+347.0,2023-08-13,Router,Samsung,perifericos,3228.19,4.0,23.0,93.0,5.0,marketplace,no,12912.76,El producto presentó fallas
+348.0,2023-08-15,Audifonos,Asus,perifericos,5119.71,2.0,9.0,34.0,Desconocido,marketplace,no,10239.42,Entrega rápida y producto original
+349.0,2023-08-17,Mouse,Desconocido,moviles,3429.56,"2,00",Desconocido,103.0,5.0,web,no,6859.12,Recibí un producto diferente
+350.0,2023-08-18,Tablet,Dell,computo,2284.94,4.0,28.0,112.0,1.0,web,no,9139.76,Producto funcionando perfectamente
+507.5,Desconocido,Mouse,HP,almacenamiento,3000.62,3.0,32.0,56.0,2.0,tienda,si,Desconocido,Entrega rápida y producto original
+352.0,2023-08-22,Teclado,Xiaomi,almacenamiento,2014.64,Desconocido,14.0,5.0,4.0,marketplace,no,4029.28,Desconocido
+353.0,2023-08-24,Audifonos,Lenovo,perifericos,-4185.19,4.0,21.0,94.0,Desconocido,Desconocido,no,16740.76,Producto funcionando perfectamente
+354.0,2023-08-25,Audifonos,HP,perifericos,6368.24,"1,00",9.0,106.0,4.0,marketplace,si,6368.24,Excelente atención técnica
+355.0,2023-08-27,Tablet,HP,perifericos,2703.49,4.0,8.0,5.0,1.0,marketplace,si,10813.96,Buena asesoría antes de comprar
+356.0,2023-08-29,Router,Xiaomi,almacenamiento,3818.05,3.0,20.0,1.0,3.0,web,si,11454.15,Buen precio y garantía
+357.0,2023-08-30,Laptop,HP,moviles,1448.04,1.0,32.0,63.0,4.0,tienda,Desconocido,1448.04,Buena asesoría antes de comprar
+358.0,2023-09-01,Monitor,Apple,moviles,3638.25,3.0,36.0,51.0,3.0,marketplace,no,10914.75,Buen precio y garantía
+359.0,2023-09-03,Teclado,Samsung,computo,2434.41,1.0,"17,00",114.0,3.0,web,si,2434.41,Excelente atención técnica
+360.0,2023-09-04,Laptop,Xiaomi,redes,6190.11,4.0,21.0,-61.0,2.0,marketplace,si,24760.44,Entrega rápida y producto original
+361.0,Desconocido,Audifonos,Asus,redes,4908.47,Desconocido,9.0,8.0,2.0,marketplace,si,14725.41,Entrega rápida y producto original
+362.0,Desconocido,Mouse,Lenovo,almacenamiento,3973.03,3.0,31.0,117.0,2.0,tienda,si,11919.09,El producto presentó fallas
+363.0,2023-09-10,Monitor,Samsung,perifericos,3329.42,3.0,17.0,78.0,5.0,Desconocido,no,9988.26,Excelente atención técnica
+364.0,2023-09-11,Mouse,HP,computo,3561.58,3.0,17.0,89.0,2.0,web,si,10684.74,Buena asesoría antes de comprar
+365.0,2023-09-13,Desconocido,HP,computo,598.93,3.0,13.0,18.0,4.0,Desconocido,si,1796.79,Buen precio y garantía
+366.0,2023-09-15,Impresora,Logitech,redes,"203,88",1.0,16.0,92.0,1.0,web,si,203.88,Buen precio y garantía
+367.0,2023-09-16,SSD,Xiaomi,computo,3917.34,Desconocido,12.0,19.0,1.0,web,si,15669.36,EXCELENTE!!!
+368.0,Desconocido,SSD,Apple,perifericos,4010.9,4.0,26.0,40.0,-2.0,tienda,si,Desconocido,Producto funcionando perfectamente
+369.0,2023-09-20,Monitor,Apple,moviles,1488.26,3.0,13.0,40.0,4.0,tienda,si,4464.78,Desconocido
+370.0,2023-09-22,Teclado,Lenovo,computo,5118.57,2.0,13.0,77.0,2.0,web,no,10237.14,Excelente atención técnica
+371.0,2023-09-23,Teclado,Desconocido,perifericos,626.91,Desconocido,14.0,17.0,"3,00",marketplace,no,1880.73,Entrega rápida y producto original
+372.0,2023-09-25,Celular,Asus,almacenamiento,4754.36,3.0,33.0,47.0,4.0,marketplace,no,14263.08,Buen precio y garantía
+373.0,2023-09-27,Router,Logitech,perifericos,"3541,81",2.0,20.0,71.0,3.0,tienda,si,7083.62,Mala atención postventa
+374.0,2023-09-28,Audifonos,HP,Desconocido,2138.23,4.0,32.0,"80,00",2.0,marketplace,si,8552.92,Excelente atención técnica
+375.0,2023-09-30,Monitor,Samsung,moviles,5839.12,1.0,18.0,46.0,1.0,web,si,5839.12,Entrega rápida y producto original
+376.0,2023-10-02,Teclado,HP,almacenamiento,Desconocido,3.0,19.0,62.0,3.0,tienda,si,14714.7,Buen precio y garantía
+377.0,2023-10-03,Teclado,HP,Desconocido,6112.14,2.0,13.0,-72.0,4.0,web,si,12224.28, EXCELENTE ATENCIÓN TÉCNICA 
+378.0,2023-10-05,Laptop,Logitech,almacenamiento,1898.31,4.0,15.0,113.0,4.0,Desconocido,no,7593.24,El producto presentó fallas
+379.0,2023-10-07,Impresora,Desconocido,computo,4054.6,2.0,18.0,"31,00",4.0,tienda,si,8109.2,El pedido llegó incompleto
+380.0,2023-10-09,Mouse,HP,almacenamiento,4893.17,3.0,0.0,20.0,1.0,tienda,no,14679.51,Mala atención postventa
+381.0,2023-10-10,Tablet,Dell,computo,3417.14,1.0,32.0,113.0,5.0,marketplace,si,3417.14,El producto presentó fallas
+382.0,2023-10-12,Impresora,Desconocido,redes,5744.69,3.0,9.0,21.0,2.0,Desconocido,Desconocido,17234.07,Producto funcionando perfectamente
+383.0,2023-10-14,Teclado,HP,perifericos,2083.03,2.0,6.0,69.0,1.0,marketplace,no,4166.06,El producto presentó fallas
+384.0,2023-10-15,Impresora,Asus,moviles,4211.95,Desconocido,8.0,29.0,4.0,tienda,no,8423.9,Entrega rápida y producto original
+385.0,2023-10-17,Router,HP,computo,3925.38,1.0,27.0,99.0,4.0,web,si,3925.38,Desconocido
+386.0,2023-10-19,Celular,Apple,computo,4248.9,1.0,35.0,24.0,4.0,tienda,Desconocido,4248.9,Entrega rápida y producto original
+387.0,2023-10-21,Monitor,Samsung,perifericos,3286.28,1.0,25.0,106.0,4.0,tienda,no,"3286,28",Excelente atención técnica
+388.0,2023-10-22,Impresora,Asus,almacenamiento,5068.09,3.0,11.0,42.0,1.0,web,no,15204.27,Buena asesoría antes de comprar
+389.0,2023-10-24,SSD,Dell,almacenamiento,4726.75,3.0,30.0,Desconocido,5.0,web,no,14180.25,mala atención postventa
+390.0,2023-10-26,Audifonos,Asus,redes,3744.09,2.0,8.0,110.0,2.0,web,no,7488.18,Excelente atención técnica
+391.0,2023-10-27,Celular,Xiaomi,perifericos,266.04,4.0,24.0,1.0,4.0,marketplace,si,"1064,16",Producto funcionando perfectamente
+392.0,2023-10-29,Laptop,Apple,almacenamiento,2195.85,2.0,36.0,35.0,3.0,marketplace,si,4391.7,Excelente atención técnica
+393.0,2023-10-31,Laptop,HP,moviles,1142.3,3.0,25.0,65.0,2.0,marketplace,si,3426.9,Buen precio y garantía
+394.0,2023-11-01,Monitor,Logitech,computo,344.71,4.0,25.0,8.0,Desconocido,web,Desconocido,1378.84,Buena asesoría antes de comprar
+395.0,2023-11-03,Impresora,Desconocido,redes,5362.74,3.0,31.0,98.0,2.0,tienda,si,16088.22,Buena asesoría antes de comprar
+396.0,2023-11-05,Desconocido,Apple,moviles,2015.97,Desconocido,2.0,57.0,4.0,marketplace,no,6047.91,Demoraron en atender la garantía
+397.0,2023-11-07,Impresora,Samsung,perifericos,6335.56,1.0,18.0,83.0,2.0,tienda,si,6335.56,Producto funcionando perfectamente
+398.0,2023-11-08,Router,Apple,redes,4565.69,-2.0,18.0,6.0,2.0,tienda,no,9131.38,Excelente atención técnica
+399.0,2023-11-10,Laptop,Lenovo,redes,557.73,4.0,17.0,42.0,3.0,tienda,si,2230.92,Buena asesoría antes de comprar
+400.0,2023-11-12,Teclado,Lenovo,redes,1253.06,4.0,29.0,28.0,1.0,web,no,5012.24,Demoraron en atender la garantía
+401.0,2023-11-13,Router,HP,moviles,5162.0,4.0,28.0,0.0,2.0,web,no,20648.0,Mala atención postventa
+402.0,2023-11-15,Celular,Dell,perifericos,3281.99,3.0,-9.0,11.0,1.0,web,si,Desconocido,Recibí un producto diferente
+403.0,2023-11-17,Desconocido,Lenovo,computo,297.27,4.0,-0.0,69.0,Desconocido,tienda,no,1189.08,Excelente atención técnica
+404.0,Desconocido,Laptop,Samsung,perifericos,2608.1,1.0,28.0,77.0,4.0,tienda,si,2608.1,Producto funcionando perfectamente
+405.0,2023-11-20,Celular,Logitech,moviles,4146.45,3.0,8.0,116.0,5.0,web,no,12439.35,Buen precio y garantía
+406.0,2023-11-22,Teclado,HP,Desconocido,3011.27,4.0,9.0,Desconocido,1.0,marketplace,no,-12045.08,Demoraron en atender la garantía
+407.0,2023-11-24,Router,Xiaomi,moviles,4479.38,3.0,17.0,0.0,2.0,tienda,si,13438.14, BUENA ASESORÍA ANTES DE COMPRAR 
+408.0,2023-11-25,Teclado,Desconocido,Desconocido,1230.71,2.0,Desconocido,26.0,5.0,marketplace,si,2461.42,Producto funcionando perfectamente
+409.0,2023-11-27,Router,Xiaomi,redes,2650.93,2.0,16.0,82.0,4.0,web,no,Desconocido,Buen precio y garantía
+410.0,2023-11-29,Audifonos,Dell,computo,1424.25,3.0,29.0,54.0,Desconocido,Desconocido,si,4272.75,Mala atención postventa
+411.0,2023-11-30,Teclado,Lenovo,moviles,3250.25,4.0,5.0,-1.0,2.0,tienda,no,13001.0,Demoraron en atender la garantía
+412.0,2023-12-02,Desconocido,HP,redes,Desconocido,2.0,3.0,39.0,5.0,web,no,3019.54,Entrega rápida y producto original
+413.0,Desconocido,Router,Asus,redes,4996.37,4.0,13.0,54.0,2.0,Desconocido,no,Desconocido,Desconocido
+414.0,2023-12-06,SSD,Dell,computo,36.62,1.0,0.0,21.0,2.0,web,no,36.62,El pedido llegó incompleto
+415.0,2023-12-07,Celular,Logitech,almacenamiento,6408.08,3.0,"1,00",63.0,1.0,marketplace,si,19224.24,Producto funcionando perfectamente
+416.0,2023-12-09,Monitor,HP,almacenamiento,758.96,1.0,30.0,3.0,3.0,web,no,758.96,Buena asesoría antes de comprar
+417.0,2023-12-11,Mouse,Lenovo,moviles,4814.98,4.0,19.0,119.0,4.0,marketplace,si,19259.92,Entrega rápida y producto original
+418.0,2023-12-12,Audifonos,Dell,Desconocido,"3941,02",3.0,20.0,79.0,2.0,tienda,no,11823.06,El pedido llegó incompleto
+419.0,2023-12-14,SSD,Lenovo,almacenamiento,5330.42,"2,00",-13.0,75.0,5.0,web,si,10660.84,Mala atención postventa
+420.0,2023-12-16,Mouse,Xiaomi,redes,5933.87,2.0,31.0,29.0,4.0,web,no,Desconocido,Entrega rápida y producto original
+421.0,2023-12-17,Monitor,Lenovo,perifericos,3926.06,Desconocido,0.0,29.0,2.0,web,no,7852.12,Recibí un producto diferente
+422.0,2023-12-19,Tablet,Logitech,Desconocido,1779.16,1.0,31.0,30.0,-4.0,tienda,si,1779.16,Excelente atención técnica
+423.0,2023-12-21,Router,Asus,computo,1941.82,1.0,31.0,112.0,3.0,web,si,1941.82,entrega rápida y producto original
+424.0,2023-12-23,Impresora,HP,computo,2580.01,"4,00",34.0,106.0,2.0,marketplace,si,10320.04,Demoraron en atender la garantía
+425.0,2023-12-24,Monitor,Dell,computo,2665.19,1.0,21.0,79.0,5.0,web,no,2665.19,Buena asesoría antes de comprar
+426.0,2023-12-26,impresora,HP,Desconocido,5371.51,"3,00",17.0,48.0,5.0,marketplace,no,16114.53,Buen precio y garantía
+427.0,2023-12-28,Tablet,Lenovo,computo,5911.11,Desconocido,35.0,8.0,2.0,tienda,si,23644.44,Entrega rápida y producto original
+428.0,2023-12-29,Teclado,Dell,moviles,3785.84,3.0,33.0,50.0,1.0,tienda,no,11357.52,El pedido llegó incompleto
+429.0,2023-12-31,SSD,Lenovo,moviles,1897.42,3.0,9.0,118.0,3.0,tienda,si,Desconocido,Entrega rápida y producto original
+430.0,2024-01-02,Impresora,Dell,computo,"3488,03",1.0,15.0,91.0,"1,00",marketplace,no,3488.03,Demoraron en atender la garantía
+431.0,2024-01-04,Router,HP,perifericos,Desconocido,3.0,2.0,76.0,5.0,web,si,13890.9,Desconocido
+432.0,2024-01-05,Audifonos,HP,perifericos,Desconocido,2.0,-10.0,98.0,2.0,web,no,12229.96, ENTREGA RÁPIDA Y PRODUCTO ORIGINAL 
+433.0,2024-01-07,Tablet,Samsung,computo,-2426.47,3.0,26.0,66.0,1.0,web,no,7279.41,Recibí un producto diferente
+434.0,2024-01-09,Impresora,Asus,Desconocido,"5765,62",2.0,27.0,Desconocido,2.0,tienda,no,11531.24,Excelente atención técnica
+435.0,2024-01-10,Impresora,Logitech,redes,4109.02,3.0,18.0,46.0,5.0,Desconocido,si,12327.06,Buen precio y garantía
+436.0,2024-01-12,SSD,Dell,redes,5674.57,2.0,32.0,4.0,4.0,marketplace,no,11349.14,Mala atención postventa
+437.0,2024-01-14,Monitor,Xiaomi,perifericos,5549.25,3.0,20.0,65.0,1.0,tienda,si,16647.75,El producto presentó fallas
+438.0,2024-01-15,Monitor,Dell,redes,1867.78,Desconocido,30.0,17.0,1.0,web,Desconocido,7471.12,Desconocido
+439.0,2024-01-17,Monitor,Lenovo,computo,3666.56,2.0,1.0,43.0,-2.0,web,no,7333.12,Buen precio y garantía
+440.0,2024-01-19,Impresora,Dell,computo,928.74,4.0,34.0,70.0,3.0,web,no,3714.96,Demoraron en atender la garantía
+441.0,2024-01-21,Audifonos,Lenovo,computo,"4259,49",1.0,22.0,75.0,1.0,marketplace,no,4259.49,Entrega rápida y producto original
+442.0,2024-01-22,Mouse,Desconocido,perifericos,1400.59,3.0,24.0,38.0,2.0,web,si,4201.77, EXCELENTE ATENCIÓN TÉCNICA 
+443.0,2024-01-24,Laptop,HP,moviles,1543.27,2.0,30.0,Desconocido,2.0,tienda,si,3086.54,Producto funcionando perfectamente
+507.5,2024-01-26,Router,HP,redes,1812.6,1.0,32.0,88.0,3.0,marketplace,si,1812.6,Excelente atención técnica
+445.0,2024-01-27,Tablet,Apple,redes,6419.62,4.0,19.0,Desconocido,Desconocido,tienda,si,25678.48,Entrega rápida y producto original
+446.0,2024-01-29,Router,Desconocido,redes,3349.55,1.0,13.0,68.0,Desconocido,tienda,si,3349.55,Excelente atención técnica
+447.0,2024-01-31,Teclado,Apple,perifericos,2263.64,3.0,33.0,88.0,5.0,web,no,6790.92,Producto funcionando perfectamente
+448.0,2024-02-02,Desconocido,Logitech,almacenamiento,3244.3,4.0,3.0,48.0,3.0,web,si,12977.2,Recibí un producto diferente
+449.0,2024-02-03,Teclado,Asus,moviles,4737.62,3.0,17.0,111.0,3.0,marketplace,si,14212.86,Demoraron en atender la garantía
+450.0,2024-02-05,Mouse,Asus,perifericos,3270.65,"1,00",36.0,101.0,1.0,web,no,3270.65,Entrega rápida y producto original
+451.0,2024-02-07,Router,Logitech,almacenamiento,Desconocido,"2,00",13.0,16.0,2.0,tienda,no,4916.98,Buen precio y garantía
+452.0,2024-02-08,SSD,Dell,almacenamiento,2263.14,4.0,35.0,58.0,4.0,marketplace,no,"9052,56",Producto funcionando perfectamente
+453.0,2024-02-10,Tablet,Apple,almacenamiento,2966.7,Desconocido,6.0,21.0,4.0,web,no,2966.7,Entrega rápida y producto original
+454.0,2024-02-12,Impresora,Desconocido,almacenamiento,991.33,1.0,"16,00",75.0,4.0,tienda,si,991.33,Buena asesoría antes de comprar
+455.0,2024-02-13,Impresora,Samsung,perifericos,Desconocido,4.0,22.0,112.0,3.0,web,no,6887.36,Producto funcionando perfectamente
+456.0,2024-02-15,Celular,Samsung,redes,3162.53,3.0,26.0,Desconocido,Desconocido,marketplace,no,9487.59,todo bien
+457.0,2024-02-17,Tablet,Desconocido,redes,1437.81,3.0,17.0,108.0,"1,00",tienda, SI ,4313.43,Entrega rápida y producto original
+458.0,2024-02-19,Celular,Lenovo,computo,5032.01,2.0,24.0,35.0,4.0,web,si,10064.02,buena asesoría antes de comprar
+459.0,2024-02-20,Audifonos,Lenovo,almacenamiento,665.77,3.0,5.0,18.0,5.0,tienda,no,1997.31,Entrega rápida y producto original
+460.0,2024-02-22,SSD,Dell,perifericos,5010.42,1.0,10.0,57.0,Desconocido,tienda,no,5010.42,Recibí un producto diferente
+461.0,2024-02-24,Router,Lenovo,computo,4836.45,2.0,26.0,92.0,1.0,web,no,9672.9,Recibí un producto diferente
+462.0,2024-02-25,SSD,Asus,redes,5861.58,4.0,1.0,Desconocido,4.0,web,no,23446.32,Demoraron en atender la garantía
+463.0,2024-02-27,SSD,Apple,moviles,2900.26,3.0,8.0,114.0,2.0,marketplace,no,8700.78,Mala atención postventa
+464.0,2024-02-29,Router,Xiaomi,almacenamiento,1631.79,4.0,8.0,103.0,4.0,marketplace,no,6527.16,Buena asesoría antes de comprar
+465.0,2024-03-01,Teclado,Logitech,redes,4372.83,1.0,4.0,19.0,3.0,tienda,no,4372.83,El producto presentó fallas
+466.0,2024-03-03,Monitor,Desconocido,redes,5782.03,3.0,Desconocido,27.0,"3,00",Desconocido,no,17346.09,Demoraron en atender la garantía
+467.0,2024-03-05,Router,Lenovo,moviles,54.59,2.0,12.0,45.0,4.0,marketplace,si,109.18,Entrega rápida y producto original
+468.0,2024-03-07,Celular,Samsung,moviles,"2576,85",3.0,9.0,106.0,2.0,web,si,7730.55,Recibí un producto diferente
+469.0,2024-03-08,Audifonos,Logitech,perifericos,129.44,3.0,19.0,112.0,4.0,marketplace,si,388.32,Excelente atención técnica
+470.0,2024-03-10,Celular,Desconocido,almacenamiento,832.13,4.0,8.0,28.0,2.0,web,si,3328.52,Producto funcionando perfectamente
+471.0,2024-03-12,Monitor,Asus,computo,4224.91,2.0,23.0,94.0,Desconocido,marketplace,si,8449.82,Excelente atención técnica
+507.5,2024-03-13,Router,Dell,almacenamiento,4453.62,Desconocido,21.0,39.0,1.0,tienda,si,17814.48,Entrega rápida y producto original
+473.0,2024-03-15,Router,Xiaomi,redes,4744.28,3.0,27.0,93.0,2.0,web,si,14232.84,Entrega rápida y producto original
+474.0,2024-03-17,Impresora,Lenovo,perifericos,5785.27,4.0,10.0,84.0,3.0, TIENDA ,no,23141.08,Buena asesoría antes de comprar
+475.0,2024-03-19,Monitor,Xiaomi,moviles,164.25,4.0,18.0,34.0,1.0,web,no,657.0,Entrega rápida y producto original
+476.0,2024-03-20,Monitor,Samsung,moviles,-4569.08,1.0,22.0,28.0,2.0,web,no,Desconocido,Buen precio y garantía
+477.0,2024-03-22,Audifonos,Samsung,perifericos,Desconocido,2.0,32.0,88.0,Desconocido,tienda,si,3340.74,Excelente atención técnica
+478.0,2024-03-24,Audifonos,Xiaomi,redes,4982.35,2.0,35.0,55.0,1.0,web,si,9964.7, BUEN PRECIO Y GARANTÍA 
+479.0,2024-03-25,Mouse,Xiaomi,computo,5142.02,2.0,20.0,79.0,1.0,marketplace,si,10284.04,Excelente atención técnica
+480.0,2024-03-27,Impresora,Xiaomi,perifericos,1610.46,4.0,10.0,34.0,1.0,tienda,si,6441.84,entrega rápida y producto original
+481.0,2024-03-29,SSD,Desconocido,perifericos,4990.0,1.0,6.0,-115.0,3.0,marketplace,no,4990.0,Excelente atención técnica
+482.0,2024-03-30,Laptop,Lenovo,moviles,317.41,Desconocido,6.0,95.0,5.0,marketplace,si,952.23, ENTREGA RÁPIDA Y PRODUCTO ORIGINAL 
+483.0,2024-04-01,Monitor,Lenovo,almacenamiento,6162.73,2.0,18.0,11.0,1.0,tienda,no,12325.46,Buen precio y garantía
+484.0,2024-04-03,Mouse,Dell,moviles,5213.01,3.0,7.0,Desconocido,5.0,marketplace,si,15639.03,Entrega rápida y producto original
+485.0,2024-04-05,SSD,Dell,perifericos,3362.83,4.0,14.0,24.0,4.0,marketplace,no,13451.32,Producto funcionando perfectamente
+486.0,2024-04-06,Teclado,HP,redes,4438.08,"3,00",16.0,11.0,3.0,marketplace,si,13314.24,Entrega rápida y producto original
+487.0,2024-04-08,SSD,Asus,redes,4943.62,4.0,28.0,10.0,3.0,Desconocido,si,19774.48,Producto funcionando perfectamente
+488.0,2024-04-10,Tablet,Lenovo,redes,3466.8,Desconocido,4.0,73.0,3.0,marketplace,si,Desconocido,Buena asesoría antes de comprar
+489.0,2024-04-11,SSD,Xiaomi,almacenamiento,343.29,2.0,16.0,76.0,5.0,web,si,"686,58",Buen precio y garantía
+490.0,2024-04-13,Router,Desconocido,perifericos,Desconocido,4.0,28.0,71.0,"5,00",web,si,19254.4,Recibí un producto diferente
+491.0,Desconocido,Desconocido,HP,perifericos,6309.71,4.0,"31,00",56.0,2.0,marketplace,no,25238.84,Desconocido
+492.0,2024-04-17,Monitor,Logitech,moviles,52.91,4.0,9.0,51.0,2.0,web,si,211.64,Entrega rápida y producto original
+493.0,2024-04-18,Impresora,Apple,almacenamiento,2530.55,Desconocido,34.0,69.0,2.0,tienda,no,2530.55,Desconocido
+494.0,2024-04-20,Router,Xiaomi,redes,1969.58,2.0,17.0,44.0,5.0,web,no,3939.16,Buena asesoría antes de comprar
+495.0,2024-04-22,Monitor,Dell,almacenamiento,2793.87,3.0,26.0,Desconocido,-2.0,web,si,8381.61,Buena asesoría antes de comprar
+496.0,2024-04-23,Laptop,Dell,computo,3796.43,2.0,12.0,103.0,5.0,web,no,7592.86,Producto funcionando perfectamente
+497.0,2024-04-25,Audifonos,Xiaomi,perifericos,5157.13,3.0,0.0,6.0,2.0,marketplace,no,15471.39,Buen precio y garantía
+498.0,2024-04-27,Impresora,Asus,moviles,2746.55,4.0,12.0,63.0,"1,00",web,si,10986.2,Demoraron en atender la garantía
+499.0,2024-04-28,Teclado,HP,redes,"2937,06",4.0,21.0,"44,00",2.0,Desconocido,si,11748.24,Recibí un producto diferente
+500.0,2024-04-30,Mouse,Desconocido,almacenamiento,3408.23,3.0,Desconocido,79.0,4.0,web,si,10224.69,El pedido llegó incompleto
+501.0,2024-05-02,Desconocido,Xiaomi,perifericos,6281.28,1.0,21.0,83.0,2.0,tienda,no,6281.28,Desconocido
+502.0,2024-05-04,Impresora,Samsung,moviles,4348.65,1.0,16.0,100.0,5.0,marketplace,si,Desconocido,Excelente atención técnica
+503.0,2024-05-05,SSD,Lenovo,perifericos,3021.17,2.0,6.0,50.0,1.0,tienda,no,6042.34,Buena asesoría antes de comprar
+504.0, 2024-05-07 ,Router,Lenovo,redes,6325.81,3.0,14.0,83.0,2.0,web,si,18977.43,Recibí un producto diferente
+505.0,2024-05-09,Audifonos,Lenovo,redes,6356.07,Desconocido,15.0,51.0,3.0,tienda,no,12712.14,Desconocido
+506.0,2024-05-10,Monitor,HP,moviles,1000.77,3.0,32.0,84.0,2.0,marketplace,si,3002.31,Buena asesoría antes de comprar
+507.0,2024-05-12,Mouse,HP,moviles,5560.04,3.0,5.0,51.0,1.0,marketplace,no,16680.12,Desconocido
+508.0,2024-05-14,Impresora,Samsung,moviles,5985.38,2.0,Desconocido,13.0,2.0,tienda,no,11970.76,Buena asesoría antes de comprar
+509.0,2024-05-15,Mouse,Apple,redes,5623.11,1.0,28.0,83.0,1.0,tienda,no,5623.11,Recibí un producto diferente
+510.0,2024-05-17,Tablet,Samsung,perifericos,5639.63,2.0,-9.0,20.0,Desconocido,marketplace,si,11279.26,Producto funcionando perfectamente
+511.0,Desconocido,Mouse,Desconocido,computo,-6035.62,-2.0,26.0,64.0,2.0,Desconocido,si,12071.24,Excelente atención técnica
+512.0,2024-05-21,Audifonos,Samsung,perifericos,1321.58,1.0,19.0,4.0,5.0,web,no,1321.58,Producto funcionando perfectamente
+513.0,2024-05-22,Desconocido,Apple,computo,2456.92,-3.0,"15,00",98.0,2.0,marketplace,si,7370.76,El producto presentó fallas
+514.0,2024-05-24,SSD,Samsung,almacenamiento,4763.78,1.0,30.0,47.0,"4,00",marketplace,si,4763.78,Buen precio y garantía
+515.0,2024-05-26,Monitor,Logitech,moviles,1334.88,1.0,29.0,8.0,5.0,web,si,1334.88,Mala atención postventa
+516.0,2024-05-27,Router,Logitech,moviles,1817.3,3.0,7.0,23.0,2.0,web,si,5451.9,Buena asesoría antes de comprar
+517.0,2024-05-29,Impresora,Desconocido,computo,1431.29,1.0,10.0,52.0,4.0,web,no,1431.29,Demoraron en atender la garantía
+518.0,Desconocido,Mouse,Desconocido,almacenamiento,3373.36,Desconocido,33.0,68.0,3.0,tienda,si,3373.36,Desconocido
+519.0,2024-06-02,Teclado,Lenovo,computo,4582.75,1.0,16.0,61.0,4.0,marketplace,no,4582.75,Buena asesoría antes de comprar
+520.0,Desconocido,Desconocido,Samsung,computo,6332.84,1.0,18.0,36.0,4.0,web,si,6332.84,El pedido llegó incompleto
+521.0,2024-06-05,Celular,Asus,almacenamiento,841.72,2.0,15.0,31.0,3.0,marketplace,no,1683.44,Demoraron en atender la garantía
+522.0,2024-06-07,Router,Asus,perifericos,Desconocido,4.0,15.0,3.0,2.0,marketplace,si,137.92,Mala atención postventa
+523.0,2024-06-08,SSD,asus,Desconocido,2443.45,3.0,32.0,"20,00",5.0,web,Desconocido,7330.35,Buen precio y garantía
+524.0,2024-06-10,Tablet,HP,almacenamiento,128.04,1.0,13.0,110.0,4.0,web,si,128.04,Buena asesoría antes de comprar
+525.0,2024-06-12,Impresora,Lenovo,computo,1373.03,1.0,16.0,Desconocido,4.0,tienda,si,Desconocido,Excelente atención técnica
+526.0,2024-06-13,Tablet,Lenovo,perifericos,-1833.65,1.0,30.0,"14,00","4,00",marketplace,si,1833.65,Excelente atención técnica
+527.0,2024-06-15,Impresora,Lenovo,moviles,"2480,23",-2.0,21.0,94.0,2.0,tienda,si,"4960,46", ENTREGA RÁPIDA Y PRODUCTO ORIGINAL 
+528.0,2024-06-17,ssd,Lenovo,Desconocido,726.92,3.0,-8.0,95.0,5.0,web,si,Desconocido,Buen precio y garantía
+529.0,2024-06-19,Monitor, ASUS ,redes,Desconocido,2.0,6.0,11.0,3.0,web,si,2585.16,Buena asesoría antes de comprar
+530.0,2024-06-20,SSD,HP,moviles,5123.74,1.0,2.0,48.0,5.0,tienda,no,5123.74,Buena asesoría antes de comprar
+531.0,2024-06-22,Teclado,Apple,perifericos,5930.06,4.0,22.0,119.0,5.0,Desconocido,no,23720.24,Desconocido
+532.0,2024-06-24,SSD,Asus,moviles,Desconocido,2.0,21.0,4.0,3.0,marketplace,si,7970.7,Buen precio y garantía
+533.0,2024-06-25,Tablet,Desconocido,computo,818.75,1.0,16.0,0.0,1.0,marketplace,no,-818.75,Producto funcionando perfectamente
+534.0,2024-06-27,Laptop,Logitech,Desconocido,3021.52,-4.0,8.0,"21,00",1.0,web,Desconocido,12086.08,Excelente atención técnica
+535.0,2024-06-29,SSD,Lenovo,computo,3912.49,1.0,30.0,83.0,1.0,web,no,3912.49,Entrega rápida y producto original
+536.0,2024-07-01,Tablet,HP,computo,6454.95,2.0,19.0,45.0,5.0,marketplace,Desconocido,12909.9,Buen precio y garantía
+537.0,2024-07-02,Teclado,Dell,almacenamiento,5711.3,3.0,29.0,83.0,3.0,web,si,17133.9,Buena asesoría antes de comprar
+538.0,2024-07-04,Mouse,Xiaomi,redes,6252.41,1.0,9.0,77.0,5.0,tienda,si,6252.41,Entrega rápida y producto original
+539.0,2024-07-06,Teclado,Asus,Desconocido,5180.99,1.0,2.0,109.0,2.0,tienda,no,5180.99,El pedido llegó incompleto
+540.0,2024-07-07,Tablet,Lenovo,computo,2069.34,3.0,23.0,37.0,1.0,tienda,si,6208.02,Excelente atención técnica
+541.0,2024-07-09,celular,Logitech,moviles,482.32,1.0,5.0,7.0,5.0,tienda,si,482.32,Buen precio y garantía
+542.0,2024-07-11,Audifonos,HP,moviles,3480.57,Desconocido,36.0,91.0,3.0,Desconocido,si,6961.14,Buena asesoría antes de comprar
+543.0,2024-07-12,Desconocido,Apple,perifericos,3966.81,3.0,-23.0,89.0,4.0,tienda,no,11900.43,El pedido llegó incompleto
+544.0,2024-07-14,Celular,HP,perifericos,5087.23,1.0,14.0,Desconocido,1.0,marketplace,no,5087.23,Producto funcionando perfectamente
+545.0,2024-07-16,teclado,Logitech,almacenamiento,1984.3,4.0,36.0,118.0,2.0,tienda,si,7937.2,Buena asesoría antes de comprar
+546.0,2024-07-18,Monitor,Dell,redes,5289.87,4.0,-23.0,118.0,Desconocido,tienda,no,21159.48,Excelente atención técnica
+547.0,Desconocido,Laptop,Asus,moviles,5353.67,4.0,15.0,Desconocido,4.0,tienda,Desconocido,21414.68, EXCELENTE ATENCIÓN TÉCNICA 
+548.0,2024-07-21,Router,Xiaomi,redes,5206.68,-1.0,5.0,85.0,"2,00",web,si,5206.68,Buena asesoría antes de comprar
+549.0,2024-07-23,Impresora,Lenovo,perifericos,795.41,3.0,16.0,5.0,2.0,web,no,2386.23,Recibí un producto diferente
+550.0,2024-07-24,Impresora,Samsung,almacenamiento,4943.7,2.0,27.0,78.0,3.0,tienda,Desconocido,Desconocido,Buen precio y garantía
+551.0,2024-07-26,SSD,Dell,redes,6109.28,2.0,16.0,39.0,5.0,tienda,no,12218.56,Buen precio y garantía
+552.0,2024-07-28,Laptop,Samsung,almacenamiento,6383.72,2.0,29.0,17.0,4.0,web,si,12767.44,El pedido llegó incompleto
+553.0,2024-07-29,Router,Samsung,moviles,1759.1,2.0,12.0,21.0,1.0,tienda,si,3518.2,El producto presentó fallas
+554.0,2024-07-31,Monitor,Logitech,computo,3049.31,2.0,"20,00",53.0,5.0,tienda,si,6098.62,Entrega rápida y producto original
+555.0,2024-08-02,Desconocido,Logitech,almacenamiento,1003.52,1.0,10.0,86.0,4.0,web,no,1003.52,Entrega rápida y producto original
+556.0,2024-08-04,Tablet,xiaomi,redes,1784.14,2.0,29.0,61.0,-5.0,tienda,si,3568.28,Entrega rápida y producto original
+557.0,2024-08-05,Monitor,Logitech,moviles,5201.82,4.0,36.0,-2.0,3.0,tienda,si,20807.28,Producto funcionando perfectamente
+558.0,2024-08-07,Celular,Apple,almacenamiento,4462.68,-1.0,12.0,90.0,3.0,Desconocido,no,4462.68,Entrega rápida y producto original
+559.0,2024-08-09,Teclado,Dell,redes,952.89,3.0,21.0,37.0,4.0,marketplace,si,2858.67,Entrega rápida y producto original
+560.0,2024-08-10,Celular,Desconocido,perifericos,6120.96,2.0,33.0,88.0,Desconocido,web, NO ,12241.92,excelente atención técnica
+561.0,2024-08-12,Audifonos,Samsung,computo,4256.0,2.0,19.0,80.0,Desconocido,web,no,8512.0,Desconocido
+562.0,2024-08-14,Mouse,Logitech,almacenamiento,3775.69,1.0,"31,00","107,00",1.0,marketplace,no,3775.69,Producto funcionando perfectamente
+563.0,2024-08-16,Laptop,Lenovo,almacenamiento,1189.21,3.0,25.0,88.0,4.0,marketplace,no,3567.63,Entrega rápida y producto original
+564.0,2024-08-17,Router,Logitech,Desconocido,1396.85,4.0,20.0,Desconocido,1.0,web,si,5587.4,Excelente atención técnica
+565.0,2024-08-19,Monitor,HP,moviles,58.92,2.0,11.0,Desconocido,4.0,marketplace,no,117.84,Entrega rápida y producto original
+566.0,2024-08-21,Teclado,Xiaomi,computo,"4139,79",4.0,24.0,Desconocido,1.0,web,no,16559.16,Buen precio y garantía
+567.0,2024-08-22,Router,Logitech,perifericos,6337.89,2.0,20.0,"10,00",1.0,Desconocido,si,12675.78,Excelente atención técnica
+568.0,2024-08-24,Celular,Lenovo,Desconocido,2270.54,3.0,-36.0,24.0,4.0,web,no,6811.62,Entrega rápida y producto original
+569.0,2024-08-26,SSD,Xiaomi,moviles,2974.21,4.0,18.0,51.0,4.0,tienda,no,11896.84,Excelente atención técnica
+570.0,2024-08-27,Celular,Xiaomi,redes,837.09,4.0,35.0,50.0,5.0,marketplace,no,3348.36,Buena asesoría antes de comprar
+571.0,2024-08-29,Monitor,Apple,moviles,515.13,2.0,27.0,109.0,2.0,marketplace,no,1030.26,Buen precio y garantía
+572.0,2024-08-31,Tablet,Samsung,computo,2214.22,4.0,26.0,103.0,4.0,marketplace,no,8856.88,Buena asesoría antes de comprar
+573.0,2024-09-02,Desconocido,Lenovo,redes,204.68,2.0,Desconocido,47.0,3.0,web,si,409.36,Excelente atención técnica
+574.0,2024-09-03,Tablet,HP,computo,438.2,2.0,17.0,95.0,2.0,tienda,no,Desconocido,Buen precio y garantía
+575.0,2024-09-05,Laptop,Logitech,computo,5292.69,2.0,10.0,89.0,2.0,marketplace,no,10585.38,Demoraron en atender la garantía
+576.0,2024-09-07,Impresora,HP,Desconocido,1137.9,4.0,"5,00",40.0,3.0,web,Desconocido,4551.6, DEMORARON EN ATENDER LA GARANTÍA 
+577.0,2024-09-08,Mouse,Dell,redes,4880.29,1.0,4.0,100.0,1.0,marketplace,no,4880.29,Entrega rápida y producto original
+578.0,Desconocido,Monitor,Apple,perifericos,4124.75,-1.0,35.0,5.0,5.0,marketplace,si,-4124.75,Demoraron en atender la garantía
+579.0,Desconocido,SSD,Asus,redes,1036.51,2.0,16.0,75.0,3.0,marketplace,no,2073.02,Buen precio y garantía
+580.0,2024-09-14,Mouse,Desconocido,redes,5667.74,4.0,"27,00",111.0,3.0,web,no,"22670,96",Entrega rápida y producto original
+581.0,2024-09-15,Audifonos,Asus,computo,Desconocido,1.0,26.0,63.0,5.0,marketplace,si,3017.86,Producto funcionando perfectamente
+582.0,2024-09-17,Desconocido,Logitech,almacenamiento,2845.46,4.0,4.0,5.0,"4,00",tienda,si,-11381.84,Entrega rápida y producto original
+583.0,2024-09-19,Desconocido,Lenovo,perifericos,741.83,3.0,25.0,12.0,4.0,tienda,no,2225.49,Entrega rápida y producto original
+584.0,2024-09-20,Mouse,Apple,moviles,"2102,18",3.0,15.0,52.0,2.0,web,no,6306.54,Producto funcionando perfectamente
+585.0,2024-09-22,Mouse,Apple,moviles,5030.69,4.0,31.0,107.0,1.0,tienda,si,20122.76,Buen precio y garantía
+586.0,2024-09-24,Impresora,Dell,moviles,5730.08,2.0,13.0,"63,00",1.0,tienda,Desconocido,11460.16,El pedido llegó incompleto
+587.0,Desconocido,Laptop,Lenovo,almacenamiento,2678.21,2.0,20.0,Desconocido,2.0,tienda,si,5356.42,Entrega rápida y producto original
+588.0,2024-09-27,Desconocido,Lenovo,almacenamiento,5501.76,4.0,13.0,48.0,5.0,marketplace,no,22007.04,Buena asesoría antes de comprar
+589.0,2024-09-29,Impresora,Dell,perifericos,5280.99,1.0,13.0,3.0,4.0,tienda,no,5280.99,Buena asesoría antes de comprar
+590.0,2024-10-01,Desconocido,Apple,moviles,1112.14,1.0,22.0,24.0,3.0,Desconocido,no,1112.14,Producto funcionando perfectamente
+591.0,2024-10-02,SSD,Samsung,moviles,Desconocido,2.0,5.0,109.0,4.0,web,si,3040.08,Recibí un producto diferente
+592.0,Desconocido,Laptop,Logitech,computo,4807.78,3.0,"20,00",82.0,1.0,marketplace,si,Desconocido,buena asesoría antes de comprar
+593.0,2024-10-06,Tablet,Xiaomi,computo,111.52,2.0,29.0,38.0,3.0,tienda,si,223.04,Excelente atención técnica
+594.0, 2024-10-07 ,Teclado,Xiaomi,computo,3547.28,1.0,9.0,51.0,2.0,marketplace,Desconocido,3547.28,Buen precio y garantía
+595.0,2024-10-09,Router,Dell,computo,1976.91,4.0,33.0,57.0,2.0,web,no,Desconocido,Entrega rápida y producto original
+507.5,Desconocido,Tablet,Apple,redes,1469.59,1.0,18.0,118.0,1.0,Desconocido,si,1469.59,Buen precio y garantía
+597.0,2024-10-13,Celular,Logitech,moviles,3099.26,3.0,2.0,15.0,4.0,Desconocido,si,9297.78,Recibí un producto diferente
+598.0,2024-10-14,Audifonos,Dell,Desconocido,Desconocido,2.0,34.0,50.0,1.0,marketplace,no,Desconocido,El producto presentó fallas
+599.0,2024-10-16,Audifonos,Apple,computo,3351.28,2.0,35.0,Desconocido,2.0,web,Desconocido,6702.56,El pedido llegó incompleto
+600.0,Desconocido,Desconocido,Samsung,redes,"6212,40",1.0,24.0,111.0,2.0,web,no,6212.4,Entrega rápida y producto original
+601.0,2024-10-19,SSD,Logitech,moviles,6019.11,1.0,36.0,35.0,3.0,tienda,no,6019.11,Recibí un producto diferente
+602.0,Desconocido,Router,Dell,computo,1369.5,4.0,30.0,17.0,4.0,web,no,5478.0,Entrega rápida y producto original
+603.0,2024-10-23, AUDIFONOS ,Samsung,moviles,2942.45,3.0,5.0,64.0,2.0,tienda,si,8827.35,Entrega rápida y producto original
+604.0,2024-10-24,Tablet,Dell,moviles,2678.99,3.0,0.0,57.0,1.0,marketplace,no,Desconocido,malo malo malo
+605.0,2024-10-26,Impresora,Asus,almacenamiento,709.15,2.0,9.0,5.0,1.0,web,Desconocido,1418.3,Excelente atención técnica
+606.0,2024-10-28, TABLET ,Lenovo,perifericos,1232.27,3.0,29.0,4.0,3.0,Desconocido,si,"3696,81",Producto funcionando perfectamente
+607.0,2024-10-30,Laptop,Xiaomi,Desconocido,3494.34,4.0,24.0,15.0,1.0,tienda,si,13977.36,Recibí un producto diferente
+507.5,2024-10-31,Teclado,Logitech,almacenamiento,4388.69,2.0,29.0,109.0,3.0,marketplace,no,8777.38,Buen precio y garantía
+609.0,2024-11-02,Celular, HP ,moviles,3691.41,2.0,10.0,32.0,5.0,web,si,7382.82,Buen precio y garantía
+610.0,2024-11-04,Audifonos,Samsung,perifericos,2728.8,3.0,24.0,30.0,5.0,web,si,"8186,40",Excelente atención técnica
+611.0,2024-11-05,Teclado,Apple,moviles,5283.81,4.0,36.0,47.0,2.0,tienda,Desconocido,21135.24,Buen precio y garantía
+612.0,2024-11-07,Audifonos,Logitech, MOVILES ,5508.1,4.0,26.0,13.0,2.0,tienda,no,-22032.4,Producto funcionando perfectamente
+613.0,2024-11-09,Teclado,Desconocido,redes,4383.06,4.0,19.0,117.0,5.0,tienda,no,-17532.24,Buena asesoría antes de comprar
+507.5,2024-11-10,Celular,Apple,computo,1374.67,4.0,27.0,111.0,2.0,web,no,5498.68,Excelente atención técnica
+615.0,2024-11-12,Impresora,Logitech,redes,2240.49,4.0,15.0,67.0,5.0,marketplace,si,8961.96,Producto funcionando perfectamente
+616.0,2024-11-14,Teclado,Lenovo,perifericos,4612.85,4.0,15.0,99.0,4.0,tienda,no,18451.4,Desconocido
+617.0,2024-11-16,Audifonos,Dell,perifericos,-975.32,2.0,30.0,11.0,3.0,marketplace,si,1950.64,Producto funcionando perfectamente
+618.0,2024-11-17,Monitor,Desconocido,almacenamiento,-229.24,2.0,1.0,88.0,4.0,web,si,458.48,Mala atención postventa
+619.0, 2024-11-19 ,Audifonos,Apple,moviles,4604.81,1.0,10.0,88.0,Desconocido,Desconocido,si,4604.81,Excelente atención técnica
+620.0,2024-11-21,Impresora,Dell,computo,5866.25,Desconocido,24.0,21.0,3.0,tienda,no,17598.75,el producto presentó fallas
+621.0,2024-11-22,Monitor,Dell,moviles,962.56,3.0,16.0,Desconocido,5.0,marketplace,no,2887.68,Excelente atención técnica
+622.0,2024-11-24,Celular,HP,perifericos,"534,74",3.0,2.0,52.0,1.0,web,no,1604.22,Buen precio y garantía
+623.0,2024-11-26,SSD,Desconocido,redes,3536.79,4.0,17.0,89.0,2.0,web,si,14147.16,Producto funcionando perfectamente
+624.0,2024-11-28,Router,Logitech,redes,6074.73,2.0,"24,00",101.0,4.0,Desconocido,no,12149.46,Producto funcionando perfectamente
+625.0,2024-11-29,Laptop,Samsung,Desconocido,5551.58,"-4,00",14.0,Desconocido,5.0,web,si,22206.32,Demoraron en atender la garantía
+626.0,Desconocido,Laptop,Desconocido,perifericos,292.77,3.0,29.0,88.0,Desconocido,marketplace,Desconocido,878.31,El producto presentó fallas
+507.5,2024-12-03,Audifonos,Asus,Desconocido,679.41,1.0,23.0,105.0,2.0,Desconocido,si,679.41,Producto funcionando perfectamente
+628.0,2024-12-04,Monitor,Xiaomi,computo,3960.21,1.0,28.0,11.0,1.0,tienda,si,3960.21,El producto presentó fallas
+629.0,2024-12-06,Celular,Dell,almacenamiento,2499.07,3.0,"8,00",7.0,Desconocido,web,no,7497.21,Buena asesoría antes de comprar
+630.0,2024-12-08,Teclado,Asus,redes,845.11,3.0,21.0,"79,00",5.0,tienda,no,2535.33,Producto funcionando perfectamente
+631.0,2024-12-09,SSD,Xiaomi,redes,2502.54,"3,00",28.0,33.0,4.0,web,si,7507.62,Entrega rápida y producto original
+632.0,2024-12-11,Teclado,Samsung,computo,908.26,1.0,32.0,97.0,2.0,web,si,908.26,Excelente atención técnica
+633.0,Desconocido,Mouse,Desconocido,redes,730.82,2.0,Desconocido,106.0,2.0,Desconocido,si,1461.64,Mala atención postventa
+634.0,2024-12-15,Audifonos,HP,perifericos,5135.02,3.0,32.0,"4,00",3.0,tienda,Desconocido,15405.06,Excelente atención técnica
+507.5,2024-12-16,Teclado,Asus,moviles,2207.04,3.0,0.0,25.0,2.0,tienda,si,-6621.12,Excelente atención técnica
+636.0,2024-12-18,Teclado,xiaomi,redes,829.57,4.0,11.0,86.0,1.0,web,no,3318.28,recibí un producto diferente
+637.0,2024-12-20,Monitor,Lenovo,moviles,3781.18,3.0,32.0,85.0,1.0,web,si,11343.54,Entrega rápida y producto original
+638.0,2024-12-21,Router,Lenovo,computo,4819.92,3.0,28.0,108.0,4.0,tienda,si,14459.76,Buen precio y garantía
+639.0,2024-12-23,Audifonos,Xiaomi,moviles,1551.41,2.0,35.0,13.0,5.0,tienda,no,3102.82,Buen precio y garantía
+640.0,2024-12-25,SSD,HP,Desconocido,3649.28,1.0,12.0,Desconocido,5.0,web,si,3649.28,Excelente atención técnica
+641.0,2024-12-27,Audifonos,Samsung,perifericos,29.57,Desconocido,19.0,60.0,4.0,web,si,118.28,Demoraron en atender la garantía
+642.0,2024-12-28,laptop,Asus,almacenamiento,2556.31,2.0,33.0,89.0,1.0,tienda,no,5112.62,Buen precio y garantía
+643.0,2024-12-30,Impresora,Apple,perifericos,5595.85,1.0,14.0,2.0,3.0,marketplace,si,Desconocido,Desconocido
+644.0,2025-01-01,Audifonos,logitech,computo,5366.87,2.0,6.0,33.0,1.0,Desconocido,no,10733.74,Entrega rápida y producto original
+645.0,2025-01-02,Laptop,Lenovo,computo,4202.18,"3,00",13.0,63.0,4.0,web,Desconocido,12606.54,Buen precio y garantía
+507.5,2025-01-04,Impresora,Xiaomi,almacenamiento,6140.2,Desconocido,34.0,73.0,2.0,web,si,18420.6,Recibí un producto diferente
+647.0,2025-01-06,Laptop,Apple,almacenamiento,3223.03,1.0,14.0,99.0,1.0,marketplace,no,3223.03,Recibí un producto diferente
+648.0,2025-01-07,Router,Logitech,moviles,2495.66,2.0,5.0,88.0,"5,00",tienda,no,4991.32,Producto funcionando perfectamente
+649.0,2025-01-09,Celular,Samsung,redes,Desconocido,4.0,26.0,"99,00",5.0,web,no,8724.6,Excelente atención técnica
+650.0,2025-01-11,Mouse,Xiaomi,computo,3798.28,Desconocido,32.0,Desconocido,5.0,marketplace,si,-15193.12,Producto funcionando perfectamente
+651.0,2025-01-13,Teclado,Asus,moviles,126.47,1.0,7.0,109.0,1.0,web,no,Desconocido,Entrega rápida y producto original
+507.5,2025-01-14,Mouse,Dell,perifericos,3310.18,2.0,Desconocido,17.0,2.0,tienda,si,6620.36,Buen precio y garantía
+653.0,2025-01-16,Celular,Apple,moviles,1931.33,1.0,Desconocido,112.0,4.0,tienda,no,1931.33,Buena asesoría antes de comprar
+654.0,2025-01-18,Laptop,Xiaomi,moviles,1715.49,1.0,7.0,84.0,4.0,web,si,1715.49,Buen precio y garantía
+655.0,2025-01-19,Audifonos, ASUS ,almacenamiento,3550.21,4.0,3.0,21.0,4.0,marketplace,si,-14200.84, BUEN PRECIO Y GARANTÍA 
+656.0,2025-01-21,Tablet,Lenovo,computo,744.54,4.0,-15.0,87.0,1.0,tienda,no,2978.16,Demoraron en atender la garantía
+657.0,2025-01-23,Mouse,HP,almacenamiento,2355.28,4.0,Desconocido,8.0,5.0,marketplace,si,9421.12,Entrega rápida y producto original
+658.0,2025-01-24,Audifonos,Desconocido,redes,3876.3,2.0,14.0,103.0,1.0,web,no,7752.6,Buena asesoría antes de comprar
+659.0,2025-01-26, TABLET ,Apple,perifericos,4392.35,1.0,10.0,114.0,3.0,tienda,si,4392.35,Recibí un producto diferente
+660.0,2025-01-28,Mouse,Asus,perifericos,2237.03,1.0,6.0,110.0,2.0,marketplace,no,2237.03,Excelente atención técnica
+661.0,Desconocido,Monitor,Xiaomi,perifericos,2546.48,3.0,11.0,79.0,3.0,web,no,7639.44,El producto presentó fallas
+662.0,2025-01-31,Monitor,Desconocido,almacenamiento,5604.02,1.0,23.0,13.0,5.0,tienda,si,5604.02,Entrega rápida y producto original
+663.0,2025-02-02,Tablet,Apple,redes,4014.54,4.0,6.0,86.0,1.0,tienda,si,16058.16,Producto funcionando perfectamente
+664.0,2025-02-04, MONITOR ,HP,redes,5483.76,1.0,36.0,72.0,1.0,web,no,5483.76,Desconocido
+665.0,2025-02-05,Celular,Samsung,moviles,2752.38,2.0,11.0,41.0,Desconocido,marketplace,no,"5504,76",Demoraron en atender la garantía
+666.0,2025-02-07,Tablet,Logitech,moviles,2090.68,Desconocido,0.0,44.0,1.0,web,Desconocido,4181.36,El pedido llegó incompleto
+667.0,2025-02-09,SSD,Xiaomi,perifericos,4837.96,2.0,0.0,Desconocido,5.0,tienda,no,9675.92,Buen precio y garantía
+668.0,2025-02-11,Monitor,Apple,redes,4867.67,4.0,31.0,54.0,5.0,web,si,19470.68,Buena asesoría antes de comprar
+669.0, 2025-02-12 ,Teclado,Xiaomi,redes,6206.76,3.0,Desconocido,103.0,4.0,marketplace,no,18620.28,Mala atención postventa
+670.0,2025-02-14,Impresora,Asus,almacenamiento,2538.51,2.0,Desconocido,Desconocido,1.0,web,si,5077.02,Recibí un producto diferente
+671.0,2025-02-16,Router,Apple,almacenamiento,4770.56,2.0,4.0,17.0,-3.0,tienda,si,9541.12,Buen precio y garantía
+672.0,2025-02-17,Tablet,Samsung,Desconocido,"4830,12",3.0,24.0,"41,00",4.0,marketplace,si,14490.36,Buen precio y garantía
+673.0,2025-02-19,Impresora,Samsung,perifericos,1603.78,3.0,Desconocido,94.0,4.0,tienda,si,4811.34,Producto funcionando perfectamente
+674.0,2025-02-21,Impresora,Lenovo,redes,1743.49,1.0,24.0,"88,00",4.0,marketplace,Desconocido,1743.49,Buen precio y garantía
+675.0,2025-02-22,Router,HP,moviles,138.06,1.0,28.0,58.0,1.0,web,si,138.06,Demoraron en atender la garantía
+676.0,2025-02-24,Audifonos,Xiaomi,computo,1323.58,Desconocido,"0,00",102.0,3.0,web,no,3970.74,Buena asesoría antes de comprar
+677.0,2025-02-26,Teclado,Dell,redes,6435.43,3.0,5.0,Desconocido,2.0,web,si,19306.29,Mala atención postventa
+678.0,2025-02-28,Teclado,Asus,moviles,4980.5,4.0,5.0,79.0,3.0,web,no,19922.0,Recibí un producto diferente
+679.0,Desconocido,Teclado,HP,redes,168.14,3.0,15.0,102.0,3.0,marketplace,si,504.42,Buena asesoría antes de comprar
+680.0,2025-03-03,Impresora,Samsung,computo,4005.52,3.0,2.0,13.0,Desconocido,Desconocido,no,12016.56,Entrega rápida y producto original
+681.0,2025-03-05,Router,Lenovo,computo,976.21,1.0,27.0,113.0,4.0,web,no,976.21,Mala atención postventa
+682.0,2025-03-06,SSD,Asus,redes,3193.75,2.0,23.0,13.0,Desconocido,marketplace,si,-6387.5,Desconocido
+683.0, 2025-03-08 ,SSD,Dell,perifericos,2274.03,4.0,35.0,50.0,1.0,web,no,9096.12,Producto funcionando perfectamente
+684.0,2025-03-10,Monitor,Dell,redes,6267.7,-3.0,21.0,51.0,-1.0,tienda,si,18803.1,Buen precio y garantía
+507.5,2025-03-12,Router,Asus,perifericos,3505.51,4.0,10.0,115.0,1.0,web,si,14022.04,Buen precio y garantía
+686.0,2025-03-13,Audifonos,Xiaomi,almacenamiento,4256.14,3.0,-16.0,4.0,2.0,marketplace,si,Desconocido,Buen precio y garantía
+687.0,2025-03-15,Desconocido,Lenovo,moviles,4784.83,1.0,32.0,10.0,Desconocido,web,si,4784.83,Buen precio y garantía
+688.0,2025-03-17,Router,Xiaomi,Desconocido,6037.97,2.0,25.0,"99,00",3.0,web,si,12075.94,Buen precio y garantía
+689.0,2025-03-18,Laptop,Lenovo,computo,4036.45,-2.0,13.0,50.0,5.0,tienda,no,8072.9, BUENA ASESORÍA ANTES DE COMPRAR 
+690.0,2025-03-20,Teclado,Logitech,redes,3121.82,"1,00",25.0,32.0,4.0,marketplace,si,3121.82,todo bien
+691.0,2025-03-22,Laptop,Apple,redes,6385.43,3.0,21.0,21.0,5.0,web,no,19156.29,Excelente atención técnica
+692.0,2025-03-23,Monitor,Lenovo,almacenamiento,1450.26,"3,00",10.0,65.0,1.0,tienda,si,4350.78, MALA ATENCIÓN POSTVENTA 
+693.0,2025-03-25,Monitor, LENOVO ,Desconocido,6397.71,1.0,35.0,69.0,3.0,marketplace,no,6397.71,Recibí un producto diferente
+694.0,2025-03-27,Teclado,Apple,redes,Desconocido,1.0,13.0,118.0,5.0,marketplace,Desconocido,5846.98,El pedido llegó incompleto
+695.0,2025-03-29, CELULAR ,Asus,redes,1751.83,1.0,19.0,36.0,4.0,tienda,no,1751.83,Demoraron en atender la garantía
+696.0,2025-03-30, TECLADO ,Logitech,perifericos,1314.49,1.0,29.0,37.0,5.0,Desconocido,no,1314.49,El pedido llegó incompleto
+697.0,2025-04-01,Monitor,Asus,almacenamiento,5097.95,Desconocido,31.0,109.0,3.0,web,si,15293.85,El producto presentó fallas
+698.0,2025-04-03,SSD,Asus,Desconocido,2003.39,1.0,21.0,88.0,3.0,web,Desconocido,2003.39,Entrega rápida y producto original
+699.0,2025-04-04,SSD,HP,moviles,"2744,79",4.0,15.0,90.0,3.0,Desconocido,si,10979.16,Desconocido
+700.0,2025-04-06,Tablet,Xiaomi,redes,558.43,1.0,10.0,-107.0,4.0,tienda,si,558.43,Excelente atención técnica
+701.0,2025-04-08,Mouse,Dell,moviles,6474.33,3.0,27.0,56.0,5.0,tienda,no,19422.99,Buen precio y garantía
+702.0,2025-04-09,Celular,Asus,Desconocido,4788.32,1.0,18.0,46.0,3.0,web,si,4788.32,Producto funcionando perfectamente
+703.0,2025-04-11,Celular,Lenovo,moviles,3825.48,3.0,-13.0,112.0,1.0,marketplace,si,11476.44,El pedido llegó incompleto
+704.0,2025-04-13,Impresora,Xiaomi,almacenamiento,3315.16,3.0,16.0,38.0,Desconocido,marketplace,no,9945.48,Buena asesoría antes de comprar
+705.0,2025-04-15,Tablet,Logitech,computo,3040.13,-1.0,2.0,68.0,2.0,web,si,3040.13,Recibí un producto diferente
+706.0,Desconocido,Desconocido,Apple,almacenamiento,3246.7,2.0,34.0,88.0,1.0,marketplace,no,Desconocido,Buen precio y garantía
+707.0,2025-04-18,Teclado,Dell,redes,1881.26,3.0,17.0,84.0,4.0,marketplace,si,5643.78,Demoraron en atender la garantía
+708.0,2025-04-20,Teclado,Logitech,computo,Desconocido,3.0,22.0,8.0,2.0,marketplace,si,12846.66,Buen precio y garantía
+709.0,2025-04-21,Mouse,Lenovo,redes,5469.27,4.0,28.0,86.0,2.0,tienda,no,21877.08,Buena asesoría antes de comprar
+710.0,2025-04-23,Mouse,Xiaomi,moviles,1482.92,"1,00",33.0,-2.0,3.0,tienda,no,1482.92,Mala atención postventa
+711.0,2025-04-25,Laptop,HP,Desconocido,1687.39,Desconocido,31.0,19.0,-1.0,marketplace,si,6749.56,Entrega rápida y producto original
+712.0,2025-04-27,Teclado,Logitech,moviles,"2132,88",3.0,7.0,Desconocido,3.0,tienda,no,6398.64,Buen precio y garantía
+713.0,2025-04-28,Celular,Xiaomi,perifericos,6001.7,Desconocido,8.0,24.0,"1,00",marketplace,Desconocido,6001.7,Excelente atención técnica
+714.0,2025-04-30,Laptop,Dell,redes,4362.09,1.0,31.0,1.0,4.0,marketplace,no,4362.09,Demoraron en atender la garantía
+715.0,2025-05-02,Audifonos,Asus, COMPUTO ,3078.29,-4.0,36.0,73.0,4.0,web,Desconocido,12313.16,El pedido llegó incompleto
+716.0,2025-05-03,SSD,Apple,moviles,2733.2,4.0,5.0,48.0,1.0,Desconocido,no,10932.8,Buena asesoría antes de comprar
+717.0,Desconocido,Audifonos,Xiaomi,moviles,855.96,2.0,-13.0,105.0,4.0,marketplace,si,1711.92,Producto funcionando perfectamente
+718.0,2025-05-07,Laptop,HP, MOVILES ,4816.56,3.0,19.0,113.0,5.0,web,si,14449.68,El producto presentó fallas
+719.0,2025-05-08,SSD,Xiaomi,redes,4878.54,Desconocido,15.0,46.0,1.0,marketplace,Desconocido,14635.62,El pedido llegó incompleto
+720.0,2025-05-10,Celular,HP,computo,1841.72,4.0,Desconocido,14.0,2.0,marketplace,si,7366.88,Producto funcionando perfectamente
+721.0,2025-05-12,Impresora,Dell,almacenamiento,-5981.13,2.0,"20,00",117.0,2.0,tienda,si,11962.26,Producto funcionando perfectamente
+722.0,2025-05-14,Celular,Dell,perifericos,Desconocido,3.0,34.0,69.0,1.0,web,si,11167.71,Recibí un producto diferente
+723.0,2025-05-15,Tablet,HP,moviles,5416.52,2.0,-6.0,73.0,5.0,tienda,si,10833.04,Recibí un producto diferente
+724.0,2025-05-17,Laptop,Asus,almacenamiento,5874.2,1.0,3.0,4.0,2.0,tienda,si,5874.2,Producto funcionando perfectamente
+725.0,2025-05-19,SSD,HP,Desconocido,4846.69,1.0,12.0,"70,00",5.0,tienda,no,Desconocido,Buena asesoría antes de comprar
+726.0,2025-05-20,Mouse,HP,moviles,5915.83,4.0,20.0,20.0,5.0,web,no,23663.32,Recibí un producto diferente
+727.0,2025-05-22,Impresora,Samsung,computo,2778.29,Desconocido,"10,00",88.0,5.0,marketplace,si,2778.29,Desconocido
+728.0,2025-05-24,Teclado,HP,Desconocido,5462.81,3.0,9.0,71.0,3.0,web,no,16388.43,Entrega rápida y producto original
+729.0,2025-05-26,Laptop,HP,redes,5105.81,1.0,3.0,106.0,3.0,tienda,no,5105.81,Buen precio y garantía
+507.5,2025-05-27,Desconocido,Asus,perifericos,5188.81,3.0,28.0,"61,00",-2.0,tienda,no,15566.43,Buen precio y garantía
+731.0,2025-05-29,Impresora,Asus,almacenamiento,619.82,1.0,Desconocido,58.0,5.0,tienda,no,619.82,el producto presentó fallas
+732.0,2025-05-31,Impresora,Samsung,moviles,"3940,60",3.0,27.0,72.0,1.0,marketplace,si,11821.8,Buen precio y garantía
+733.0,2025-06-01,Audifonos,Lenovo,moviles,317.52,4.0,Desconocido,92.0,5.0,tienda,si,1270.08,Producto funcionando perfectamente
+734.0,2025-06-03,Laptop,Desconocido,moviles,2242.28,3.0,35.0,34.0,1.0,tienda,si,-6726.84,Buen precio y garantía
+735.0,2025-06-05,Teclado,Dell,moviles,1111.51,1.0,9.0,41.0,4.0,marketplace,no,1111.51,Entrega rápida y producto original
+736.0,2025-06-06,Celular,Lenovo,computo,2463.28,3.0,0.0,41.0,1.0,web,si,7389.84,El producto presentó fallas
+737.0,2025-06-08,Impresora,Logitech,moviles,3975.55,3.0,10.0,2.0,Desconocido,web,no,11926.65,Buena asesoría antes de comprar
+738.0,2025-06-10,Laptop,Samsung,almacenamiento,-2097.5,4.0,25.0,104.0,2.0,tienda,no,8390.0, BUENA ASESORÍA ANTES DE COMPRAR 
+739.0,2025-06-12,Impresora,Apple,moviles,2822.92,1.0,5.0,51.0,4.0,web,si,2822.92,Excelente atención técnica
+740.0,2025-06-13,Mouse,Apple,redes,-2130.37,2.0,4.0,31.0,5.0,tienda,no,4260.74,Excelente atención técnica
+741.0,2025-06-15,Router,Dell,almacenamiento,734.64,3.0,21.0,95.0,2.0,tienda,no,2203.92,Buena asesoría antes de comprar
+742.0,2025-06-17,Impresora,HP,redes,5668.89,4.0,32.0,77.0,3.0,web,si,22675.56,Entrega rápida y producto original
+743.0,2025-06-18,Impresora,Apple,redes,3738.16,2.0,19.0,64.0,1.0,Desconocido,no,7476.32,Desconocido
+507.5,2025-06-20,Monitor,Apple,moviles,204.17,Desconocido,14.0,29.0,1.0,web,Desconocido,612.51,Buena asesoría antes de comprar
+745.0,2025-06-22,Laptop,HP,redes,5121.17,2.0,16.0,Desconocido,3.0,web,no,10242.34,Mala atención postventa
+746.0,2025-06-24,SSD,Samsung,almacenamiento,4577.08,4.0,8.0,94.0,5.0,marketplace,si,18308.32,Entrega rápida y producto original
+747.0,2025-06-25,Audifonos,Apple,almacenamiento,2726.79,4.0,29.0,1.0,1.0,web,Desconocido,10907.16,Desconocido
+748.0,2025-06-27,Desconocido,Logitech,redes,"3113,53",2.0,34.0,90.0,3.0,tienda,si,6227.06,Buen precio y garantía
+507.5,2025-06-29,Celular,HP,almacenamiento,3634.96,1.0,22.0,69.0,4.0,tienda,si,3634.96,Producto funcionando perfectamente
+750.0,2025-06-30,Impresora,Lenovo,perifericos,341.05,1.0,3.0,107.0,4.0,web,si,341.05,Buena asesoría antes de comprar
+751.0,2025-07-02,Celular,Xiaomi,moviles,1429.64,2.0,35.0,80.0,1.0,tienda,no,2859.28,Mala atención postventa
+752.0,2025-07-04,Celular,Dell,computo,Desconocido,1.0,36.0,24.0,2.0,tienda,no,441.72,Buen precio y garantía
+753.0,2025-07-05, LAPTOP ,HP,almacenamiento,3266.59,2.0,36.0,51.0,Desconocido,marketplace,si,6533.18,Producto funcionando perfectamente
+754.0,2025-07-07,Mouse,Asus,redes,754.1,4.0,24.0,60.0,1.0,marketplace,no,3016.4,Buena asesoría antes de comprar
+755.0,2025-07-09,Mouse,Desconocido,perifericos,723.02,2.0,13.0,105.0,4.0,tienda,si,1446.04,Excelente atención técnica
+756.0,2025-07-11,Audifonos,Asus,moviles,3360.76,3.0,14.0,19.0,1.0,marketplace,si,10082.28,El pedido llegó incompleto
+757.0,Desconocido,Audifonos,Dell,computo,2077.19,4.0,35.0,115.0,"1,00",marketplace,no,8308.76,Excelente atención técnica
+758.0,2025-07-14,Celular,Xiaomi,moviles,451.97,4.0,3.0,54.0,1.0,marketplace,si,1807.88,Excelente atención técnica
+759.0,2025-07-16,Router,HP,redes,3878.13,1.0,Desconocido,9.0,5.0,web,si,Desconocido,Demoraron en atender la garantía
+760.0,2025-07-17,Desconocido,Samsung,computo,5028.73,4.0,11.0,Desconocido,5.0,web,si,Desconocido,0
+761.0,2025-07-19,Audifonos,Lenovo,perifericos,5170.75,2.0,11.0,93.0,5.0,tienda,si,10341.5,Desconocido
+762.0,2025-07-21,Teclado,HP,redes,1277.06,3.0,29.0,-23.0,2.0,Desconocido,Desconocido,-3831.18,Mala atención postventa
+763.0,Desconocido,Celular,Samsung,perifericos,562.6,2.0,-35.0,72.0,5.0,marketplace,no,1125.2,Mala atención postventa
+764.0,2025-07-24,Desconocido,Asus,almacenamiento,927.72,4.0,15.0,59.0,2.0,tienda,si,3710.88,buen precio y garantía
+765.0,2025-07-26,Monitor,Asus,redes,4985.87,3.0,1.0,108.0,4.0,web,Desconocido,14957.61,El pedido llegó incompleto
+766.0,2025-07-28,Teclado,Asus,moviles,2760.24,1.0,8.0,117.0,5.0,marketplace,no,2760.24,Buen precio y garantía
+767.0,2025-07-29,Audifonos,Samsung,moviles,-2880.98,4.0,33.0,24.0,5.0,marketplace,Desconocido,11523.92,Desconocido
+768.0,2025-07-31,mouse,Asus,almacenamiento,4751.93,1.0,3.0,21.0,2.0,marketplace,si,4751.93,Excelente atención técnica
+769.0,2025-08-02,Monitor,Dell,redes,3705.61,"4,00",24.0,88.0,3.0,tienda,si,14822.44,Desconocido
+770.0,2025-08-03,Laptop,Logitech,almacenamiento,1211.86,3.0,4.0,33.0,Desconocido,tienda,no,3635.58,Buena asesoría antes de comprar
+771.0, 2025-08-05 ,Teclado,Apple,Desconocido,5678.65,3.0,3.0,95.0,3.0,web,si,17035.95,Entrega rápida y producto original
+772.0,2025-08-07,Laptop,Xiaomi,redes,2035.84,-2.0,32.0,31.0,4.0,marketplace,no,4071.68,Buen precio y garantía
+773.0,2025-08-09,Laptop,Asus,redes,1447.81,1.0,18.0,5.0,1.0,web,no,1447.81,Buena asesoría antes de comprar
+774.0,2025-08-10,Audifonos,Asus,moviles,5366.44,Desconocido,3.0,Desconocido,2.0,web,si,10732.88,Excelente atención técnica
+775.0,2025-08-12,Laptop,Xiaomi,moviles,5021.97,2.0,36.0,37.0,2.0,marketplace,si,10043.94,Demoraron en atender la garantía
+776.0,2025-08-14,Mouse,Logitech,moviles,1954.2,4.0,22.0,Desconocido,4.0,tienda,no,7816.8,Mala atención postventa
+507.5,2025-08-15,Tablet,Dell,Desconocido,4450.11,4.0,2.0,65.0,3.0,tienda,si,17800.44,Buena asesoría antes de comprar
+778.0,2025-08-17,Audifonos,Samsung,computo,3962.88,1.0,23.0,95.0,4.0,tienda,no,3962.88,El pedido llegó incompleto
+779.0,2025-08-19,Monitor,Logitech,perifericos,328.43,2.0,36.0,Desconocido,Desconocido,tienda,si,656.86,Entrega rápida y producto original
+780.0,2025-08-20,Teclado,Logitech,moviles,Desconocido,4.0,"-8,00",66.0,4.0,tienda,no,10768.6,Excelente atención técnica
+781.0,2025-08-22,Audifonos,Dell,almacenamiento,2818.91,1.0,26.0,1.0,4.0,marketplace,si,2818.91,El pedido llegó incompleto
+782.0,2025-08-24,Teclado,Samsung,moviles,3477.22,4.0,18.0,8.0,1.0,marketplace,no,13908.88,Producto funcionando perfectamente
+783.0,2025-08-26,Teclado,Asus,perifericos,4280.68,1.0,Desconocido,10.0,5.0,tienda,si,4280.68,Entrega rápida y producto original
+784.0,2025-08-27,Impresora,HP,moviles,1086.33,1.0,19.0,42.0,2.0,Desconocido,si,Desconocido,Buena asesoría antes de comprar
+785.0,2025-08-29,Monitor,HP,redes,Desconocido,2.0,5.0,26.0,2.0,web,no,6429.0,Buen precio y garantía
+786.0,2025-08-31,Desconocido,Apple,moviles,716.23,2.0,8.0,24.0,5.0,tienda,no,1432.46,Buen precio y garantía
+787.0,2025-09-01,Tablet,Apple,almacenamiento,3760.1,Desconocido,14.0,70.0,2.0,tienda,si,7520.2,Desconocido
+788.0,2025-09-03,Impresora,Logitech,almacenamiento,3281.29,4.0,6.0,Desconocido,5.0,web,si,13125.16,Entrega rápida y producto original
+789.0,2025-09-05,Mouse,Logitech,computo,1823.92,3.0,29.0,22.0,2.0,marketplace,Desconocido,5471.76,Buen precio y garantía
+790.0,2025-09-07,Laptop,Desconocido,almacenamiento,3086.61,2.0,15.0,Desconocido,5.0,marketplace,no,6173.22,Excelente atención técnica
+791.0,Desconocido,Desconocido,Lenovo,moviles,"4850,11",2.0,35.0,0.0,5.0,web,si,9700.22,Excelente atención técnica
+792.0,2025-09-10,Tablet,Apple,perifericos,2203.95,3.0,11.0,97.0,2.0,tienda,si,6611.85,Mala atención postventa
+793.0,Desconocido,Monitor,Dell,computo,2143.92,3.0,20.0,Desconocido,3.0,tienda,no,6431.76,producto funcionando perfectamente
+794.0,2025-09-13,Monitor,Asus,moviles,4191.13,2.0,10.0,83.0,5.0,web,si,8382.26,Demoraron en atender la garantía
+795.0,2025-09-15,SSD,apple,moviles,1565.85,1.0,21.0,14.0,1.0,tienda,si,1565.85,Producto funcionando perfectamente
+796.0,2025-09-17,Mouse,Lenovo,moviles,3776.57,1.0,Desconocido,Desconocido,1.0,Desconocido, SI ,3776.57,Buena asesoría antes de comprar
+797.0,2025-09-18,Tablet,Desconocido,almacenamiento,284.99,4.0,21.0,61.0,"4,00",marketplace,no,1139.96,Entrega rápida y producto original
+798.0,2025-09-20,SSD,Logitech,computo,4764.91,4.0,Desconocido,Desconocido,4.0,web,si,19059.64,Entrega rápida y producto original
+799.0,2025-09-22,Monitor,Dell,redes,6229.79,4.0,17.0,20.0,1.0, WEB ,si,"24919,16",Desconocido
+800.0,2025-09-24,Audifonos,Asus,almacenamiento,1784.17,3.0,10.0,70.0,3.0,tienda,si,5352.51,Buen precio y garantía
+801.0,2025-09-25,Mouse,Apple,computo,-3267.18,"2,00",26.0,41.0,Desconocido,web,si,6534.36,Excelente atención técnica
+802.0,2025-09-27,Celular,Asus,redes,592.77,"4,00",-9.0,90.0,5.0,marketplace,si,2371.08,El pedido llegó incompleto
+803.0,2025-09-29,Celular,Samsung,moviles,800.73,1.0,"5,00",93.0,Desconocido,web,si,800.73,Excelente atención técnica
+804.0,2025-09-30,Router,Lenovo,almacenamiento,2918.56,1.0,25.0,Desconocido,4.0,web,si,"2918,56",Excelente atención técnica
+805.0,2025-10-02,Mouse,HP,redes,"1072,55",4.0,"2,00",88.0,1.0,tienda,no,4290.2,Excelente atención técnica
+806.0,2025-10-04,Teclado,Xiaomi,redes,5414.03,Desconocido,12.0,11.0,5.0,tienda,si,10828.06,Buen precio y garantía
+807.0,2025-10-05,Mouse,Dell,perifericos,6467.88,3.0,6.0,88.0,4.0,web,si,19403.64,Recibí un producto diferente
+808.0,2025-10-07,Teclado,Asus,almacenamiento,4695.96,3.0,8.0,28.0,Desconocido,tienda,si,14087.88,Desconocido
+809.0,2025-10-09,Mouse,Logitech,moviles,4750.42,3.0,17.0,108.0,1.0,web,no,14251.26,Producto funcionando perfectamente
+810.0,2025-10-11,Audifonos,HP,moviles,5481.08,4.0,22.0,79.0,5.0,tienda,si,21924.32,Buen precio y garantía
+811.0,Desconocido,Router,Lenovo,perifericos,2089.8,2.0,21.0,15.0,3.0,tienda,no,4179.6,Demoraron en atender la garantía
+812.0,2025-10-14,Teclado,Samsung,redes,6171.88,2.0,10.0,41.0,Desconocido,marketplace,no,12343.76,Buen precio y garantía
+813.0,2025-10-16,Monitor,Samsung,almacenamiento,661.55,3.0,31.0,41.0,Desconocido,tienda,si,"1984,65",Producto funcionando perfectamente
+814.0,2025-10-17,Monitor,Apple,computo,3876.33,1.0,23.0,"109,00",1.0,marketplace,no,3876.33,Recibí un producto diferente
+815.0,2025-10-19,Tablet,Samsung,almacenamiento,2998.92,3.0,3.0,"40,00",3.0,web,si,8996.76,Producto funcionando perfectamente
+816.0,2025-10-21,Tablet,Samsung,redes,2146.05,4.0,"13,00",12.0,Desconocido,Desconocido,no,8584.2,Entrega rápida y producto original
+507.5,2025-10-23,Celular,Logitech,computo,5454.42,4.0,19.0,40.0,5.0,web,si,21817.68,Producto funcionando perfectamente
+818.0,2025-10-24,Teclado, ASUS ,Desconocido,1021.84,4.0,13.0,53.0,4.0,tienda,no,4087.36,Entrega rápida y producto original
+819.0,2025-10-26,SSD,Asus,Desconocido,242.69,3.0,19.0,Desconocido,"1,00",marketplace,si,728.07,Buen precio y garantía
+507.5,2025-10-28,Tablet,Xiaomi,almacenamiento,3883.79,4.0,Desconocido,37.0,Desconocido,marketplace,Desconocido,15535.16, EL PRODUCTO PRESENTÓ FALLAS 
+821.0,2025-10-29,Celular,apple,almacenamiento,5919.85,4.0,13.0,111.0,3.0,web,no,23679.4,Buena asesoría antes de comprar
+822.0,2025-10-31,Monitor, APPLE ,moviles,4971.36,4.0,11.0,42.0,2.0,tienda,no,19885.44,Entrega rápida y producto original
+823.0,Desconocido,Laptop,Desconocido,Desconocido,5187.85,2.0,Desconocido,77.0,2.0,tienda,no,10375.7,Entrega rápida y producto original
+507.5,2025-11-03,Monitor,HP,redes,3789.03,1.0,19.0,-88.0,2.0,web,no,3789.03, BUEN PRECIO Y GARANTÍA 
+825.0,2025-11-05,Laptop,HP,redes,3836.28,1.0,34.0,44.0,4.0,marketplace,no,3836.28,Producto funcionando perfectamente
+826.0,2025-11-07,Impresora,Lenovo,computo,"4903,86","4,00",11.0,Desconocido,Desconocido,web,no,19615.44,Entrega rápida y producto original
+827.0,2025-11-09,Monitor,Asus,almacenamiento,5732.6,2.0,0.0,6.0,4.0,web,no,11465.2,producto funcionando perfectamente
+828.0,2025-11-10,Router,Apple,redes,710.56,2.0,Desconocido,19.0,4.0,web,si,1421.12,Buena asesoría antes de comprar
+829.0, 2025-11-12 ,Monitor,HP,computo,1248.5,1.0,14.0,26.0,"4,00",tienda,si,1248.5,Producto funcionando perfectamente
+830.0,2025-11-14,Tablet,Dell,almacenamiento,Desconocido,2.0,0.0,10.0,Desconocido,tienda,si,Desconocido,Excelente atención técnica
+831.0,2025-11-15,Desconocido,Logitech,moviles,6446.32,4.0,1.0,50.0,1.0,web,no,25785.28,Producto funcionando perfectamente
+832.0,2025-11-17,Audifonos,Asus,redes,5599.87,4.0,5.0,40.0,2.0,marketplace,no,22399.48,Buen precio y garantía
+833.0,2025-11-19,Router,Xiaomi,almacenamiento,5257.88,2.0,16.0,112.0,3.0,tienda,si,10515.76,Excelente atención técnica
+834.0,Desconocido,Celular,Samsung,perifericos,2051.19,2.0,"10,00",43.0,1.0,tienda,Desconocido,4102.38,Producto funcionando perfectamente
+835.0,2025-11-22,Celular,Desconocido,almacenamiento,3255.22,4.0,Desconocido,87.0,4.0,web,no,"13020,88",Excelente atención técnica
+836.0,2025-11-24,Router,Lenovo,computo,3104.8,2.0,31.0,Desconocido,3.0,web,Desconocido,6209.6,Mala atención postventa
+837.0,Desconocido,Tablet,Samsung,almacenamiento,4067.34,4.0,22.0,Desconocido,1.0,tienda,no,16269.36,Producto funcionando perfectamente
+507.5,2025-11-27,Tablet,Apple,moviles,2835.51,3.0,25.0,44.0,4.0,web,si,8506.53,El producto presentó fallas
+839.0,2025-11-29,Laptop,Lenovo,perifericos,3856.04,3.0,4.0,76.0,4.0,tienda,si,11568.12,Excelente atención técnica
+840.0,2025-12-01,Impresora,Apple,perifericos,Desconocido,1.0,30.0,35.0,"1,00",marketplace,si,5785.64,Buena asesoría antes de comprar
+841.0,2025-12-02,SSD,Apple,perifericos,2744.68,1.0,5.0,46.0,2.0,marketplace,no,2744.68,Producto funcionando perfectamente
+842.0,2025-12-04,Mouse,Samsung,perifericos,357.75,1.0,17.0,8.0,3.0,tienda,si,357.75,EXCELENTE!!!
+843.0,2025-12-06,Celular,Desconocido,perifericos,1772.27,1.0,14.0,2.0,1.0,tienda,si,1772.27,Entrega rápida y producto original
+844.0,2025-12-08,Tablet,Lenovo,redes,4558.31,2.0,32.0,62.0,4.0,web,si,-9116.62,Demoraron en atender la garantía
+845.0,2025-12-09,Laptop,Samsung,redes,5814.78,3.0,"11,00",50.0,2.0,tienda,no,Desconocido,Demoraron en atender la garantía
+846.0,2025-12-11,Mouse,Apple,Desconocido,Desconocido,4.0,34.0,35.0,5.0,web,no,Desconocido,Buen precio y garantía
+847.0,2025-12-13,Tablet,Xiaomi,moviles,58.03,4.0,8.0,76.0,3.0,web,no,232.12,Entrega rápida y producto original
+848.0,2025-12-14,Teclado,Dell,almacenamiento,"6124,20",1.0,4.0,80.0,-2.0,web,no,6124.2,Entrega rápida y producto original
+849.0,2025-12-16,Impresora,Apple,almacenamiento,Desconocido,4.0,16.0,33.0,1.0,web,no,"24727,88",Producto funcionando perfectamente
+850.0,2025-12-18,Router,HP,moviles,6128.05,1.0,12.0,17.0,1.0,marketplace,no,6128.05,El producto presentó fallas
+851.0,2025-12-19,Audifonos,Dell,almacenamiento,6299.8,3.0,11.0,106.0,4.0,Desconocido,si,"18899,40",Buen precio y garantía
+852.0,2025-12-21,Router,Apple,computo,5262.13,4.0,15.0,94.0,1.0,marketplace,no,21048.52,Entrega rápida y producto original
+853.0,2025-12-23,Tablet,Asus,redes,5326.8,2.0,18.0,98.0,3.0,Desconocido,no,10653.6,Excelente atención técnica
+854.0,2025-12-25,Audifonos,Xiaomi,perifericos,1690.65,3.0,20.0,73.0,5.0,marketplace,si,5071.95,Excelente atención técnica
+855.0,2025-12-26,Monitor,Xiaomi,Desconocido,6245.4,4.0,1.0,70.0,-3.0,web,no,24981.6,Excelente atención técnica
+856.0,2025-12-28,SSD,Apple,computo,4485.12,4.0,Desconocido,35.0,2.0,web,si,17940.48,Recibí un producto diferente
+857.0,2025-12-30,Laptop,Samsung,moviles,1038.95,4.0,26.0,35.0,2.0,web,Desconocido,4155.8,Excelente atención técnica
+858.0,2025-12-31,Teclado,Asus,almacenamiento,5370.78,1.0,30.0,87.0,2.0,web,Desconocido,5370.78,Excelente atención técnica
+859.0,2026-01-02,Impresora,Asus,redes,845.66,2.0,21.0,97.0,3.0,marketplace,no,1691.32,Buena asesoría antes de comprar
+860.0,2026-01-04,Router,Xiaomi,redes,4070.59,3.0,33.0,98.0,5.0,web,no,12211.77,Buena asesoría antes de comprar
+861.0,2026-01-06,Router,Desconocido,almacenamiento,1196.22,Desconocido,18.0,43.0,1.0,marketplace,no,1196.22,Buen precio y garantía
+862.0,2026-01-07,Impresora,Dell,perifericos,4727.84,2.0,2.0,94.0,5.0,Desconocido,no,9455.68,Producto funcionando perfectamente
+863.0,2026-01-09,Laptop,HP,almacenamiento,6493.09,"4,00",25.0,30.0,2.0,web,si,25972.36,Buen precio y garantía
+864.0,2026-01-11,SSD,Dell,moviles,2949.04,4.0,22.0,118.0,-3.0,web,si,11796.16,Producto funcionando perfectamente
+865.0, 2026-01-12 ,Impresora,Asus,almacenamiento,1956.57,1.0,23.0,"71,00",4.0,marketplace,si,1956.57,Buen precio y garantía
+866.0,2026-01-14,Monitor,Lenovo,almacenamiento,4067.36,"4,00",21.0,86.0,"2,00",tienda,si,16269.44,Recibí un producto diferente
+867.0,2026-01-16,Monitor,Samsung,Desconocido,4645.35,-3.0,9.0,24.0,5.0,marketplace,si,Desconocido,El producto presentó fallas
+868.0,2026-01-17,Tablet,Lenovo,almacenamiento,4910.01,-1.0,"32,00",43.0,1.0,tienda,si,4910.01,Producto funcionando perfectamente
+869.0,Desconocido,Mouse,Desconocido,computo,1454.58,4.0,29.0,61.0,4.0,web,si,5818.32,Entrega rápida y producto original
+870.0,2026-01-21,SSD,Dell,redes,1204.31,2.0,Desconocido,"9,00",3.0,tienda,no,2408.62,Buena asesoría antes de comprar
+871.0,2026-01-23,SSD,Asus,moviles,5046.94,1.0,8.0,Desconocido,5.0,marketplace,no,5046.94,Excelente atención técnica
+872.0,Desconocido,Monitor,Samsung,moviles,2808.75,3.0,12.0,81.0,2.0,web,si,8426.25,El pedido llegó incompleto
+873.0,Desconocido,Audifonos,Dell,redes,4612.11,2.0,20.0,"85,00",3.0,web,si,9224.22,Buena asesoría antes de comprar
+874.0,Desconocido,Desconocido,Lenovo,perifericos,4471.88,4.0,19.0,86.0,1.0,Desconocido,si,17887.52,Buena asesoría antes de comprar
+875.0,2026-01-29,Teclado,Asus,almacenamiento,Desconocido,2.0,20.0,15.0,3.0,marketplace,si,8458.18,El pedido llegó incompleto
+876.0,Desconocido,Audifonos,Dell,moviles,3186.55,3.0,25.0,"58,00",4.0,marketplace,Desconocido,9559.65,El producto presentó fallas
+877.0,2026-02-02,Monitor,HP,perifericos,1113.46,4.0,"34,00","-104,00",3.0,web,si,Desconocido,Buena asesoría antes de comprar
+878.0,2026-02-04,Router,Apple,moviles,6464.94,3.0,11.0,37.0,1.0,tienda,no,19394.82,Excelente atención técnica
+879.0,2026-02-05,Desconocido,Lenovo,almacenamiento,3748.91,2.0,13.0,14.0,3.0,marketplace,Desconocido,7497.82,Buen precio y garantía
+880.0,2026-02-07,Teclado,Logitech,moviles,4255.31,Desconocido,3.0,89.0,Desconocido,web,si,8510.62,Recibí un producto diferente
+881.0,2026-02-09,Monitor,Logitech,computo,5471.14,3.0,"22,00",27.0,3.0,tienda,si,16413.42,Entrega rápida y producto original
+882.0,2026-02-10,Celular,Dell,almacenamiento,651.24,2.0,24.0,34.0,3.0,tienda,no,1302.48,El pedido llegó incompleto
+883.0,Desconocido,SSD,Xiaomi,moviles,1194.34,3.0,21.0,37.0,5.0,web,no,3583.02,Entrega rápida y producto original
+884.0,2026-02-14,Desconocido,Logitech,computo,"3150,80",-2.0,20.0,11.0,2.0,tienda,no,6301.6,El producto presentó fallas
+885.0,2026-02-15,Celular,HP,almacenamiento,1724.33,4.0,2.0,107.0,"3,00",web,no,6897.32,Recibí un producto diferente
+886.0,2026-02-17,Monitor,Asus,perifericos,1746.45,Desconocido,30.0,32.0,1.0,tienda,no,1746.45,Producto funcionando perfectamente
+507.5,2026-02-19,Teclado,Lenovo,computo,1171.08,4.0,"7,00",21.0,4.0,Desconocido,no,Desconocido,Demoraron en atender la garantía
+507.5,2026-02-21,Laptop,Lenovo,moviles,3913.16,1.0,3.0,88.0,5.0,marketplace,no,3913.16,Entrega rápida y producto original
+889.0,2026-02-22,Tablet,Dell,moviles,3858.14,4.0,5.0,Desconocido,4.0,web,si,15432.56,Buena asesoría antes de comprar
+507.5,2026-02-24,Celular,Asus,computo,5643.39,4.0,33.0,-42.0,4.0,web,si,-22573.56,El pedido llegó incompleto
+891.0,2026-02-26,Router,hp,computo,3416.76,4.0,27.0,29.0,4.0,marketplace,si,13667.04,Producto funcionando perfectamente
+892.0,2026-02-27,Celular,Samsung,moviles,Desconocido,"2,00",9.0,27.0,1.0,tienda,si,9124.18,0
+893.0,2026-03-01,Router,Asus,almacenamiento,2748.03,3.0,Desconocido,14.0,5.0,web,no,8244.09,Buen precio y garantía
+507.5,2026-03-03,Router,Asus,computo,2460.73,2.0,21.0,"58,00",5.0,marketplace,no,4921.46,Entrega rápida y producto original
+895.0,2026-03-05,Impresora,Apple,computo,5647.99,2.0,23.0,97.0,3.0,web,no,11295.98,Producto funcionando perfectamente
+896.0,2026-03-06,SSD,Asus,computo,6453.45,2.0,14.0,99.0,1.0,tienda,no,12906.9,Recibí un producto diferente
+897.0,2026-03-08,Teclado,Samsung,almacenamiento,248.17,2.0,13.0,55.0,2.0,tienda, SI ,496.34,Buena asesoría antes de comprar
+898.0,2026-03-10,Teclado,Dell,redes,4275.72,"3,00",7.0,52.0,2.0,marketplace,si,-12827.16,Buena asesoría antes de comprar
+899.0,2026-03-11,Laptop,lenovo,moviles,1666.46,2.0,Desconocido,119.0,1.0,web,si,3332.92,Demoraron en atender la garantía
+900.0,2026-03-13, CELULAR ,Xiaomi,computo,1579.99,4.0,21.0,Desconocido,5.0,marketplace,no,"6319,96",Entrega rápida y producto original
+901.0,2026-03-15,Laptop,Asus,almacenamiento,4193.72,-2.0,24.0,23.0,3.0,web, SI ,8387.44,Producto funcionando perfectamente
+902.0,Desconocido,Laptop,Samsung,computo,675.91,2.0,21.0,57.0,4.0,tienda,no,1351.82,Mala atención postventa
+903.0,2026-03-18,Mouse,Lenovo,Desconocido,6368.83,3.0,16.0,77.0,"4,00",tienda,no,19106.49,Buen precio y garantía
+904.0,2026-03-20,Router,Asus,perifericos,"6371,59",1.0,4.0,Desconocido,1.0,marketplace,si,6371.59,Entrega rápida y producto original
+905.0,2026-03-22,Router,HP,almacenamiento,2152.22,"1,00","17,00",Desconocido,5.0,web,si,2152.22,Demoraron en atender la garantía
+906.0,2026-03-23,Audifonos,Xiaomi,perifericos,4366.24,3.0,Desconocido,84.0,3.0,marketplace,no,13098.72,Excelente atención técnica
+907.0,2026-03-25,Monitor,Asus,computo,616.4,3.0,31.0,Desconocido,3.0,web,Desconocido,1849.2,recibí un producto diferente
+908.0,2026-03-27,Celular,Apple,redes,191.7,4.0,18.0,106.0,4.0,marketplace,no,766.8,Desconocido
+909.0,2026-03-28,Monitor,Apple,moviles,1350.77,-1.0,"3,00",42.0,4.0,marketplace,no,Desconocido,Producto funcionando perfectamente
+910.0,2026-03-30,Laptop,Desconocido,almacenamiento,459.18,3.0,5.0,42.0,4.0,marketplace,si,1377.54,malo malo malo
+911.0,2026-04-01,Mouse,Apple,perifericos,25.65,2.0,Desconocido,85.0,"4,00",web,si,Desconocido,Recibí un producto diferente
+912.0,2026-04-02,Router,Desconocido,computo,675.26,3.0,2.0,111.0,3.0,tienda,Desconocido,2025.78,Producto funcionando perfectamente
+913.0,2026-04-04,Router,Xiaomi,computo,74.0,4.0,17.0,58.0,5.0,web,si,296.0,Recibí un producto diferente
+914.0,2026-04-06,Desconocido,HP,almacenamiento,1617.58,4.0,20.0,34.0,3.0,web,si,6470.32,El pedido llegó incompleto
+915.0,2026-04-08,SSD,HP,Desconocido,4945.44,2.0,18.0,61.0,2.0,marketplace,no,9890.88,El producto presentó fallas
+916.0,2026-04-09,Router,Lenovo,moviles,4993.04,4.0,5.0,Desconocido,2.0,Desconocido,si,19972.16,Demoraron en atender la garantía
+917.0,2026-04-11,Celular,Samsung,perifericos,1333.59,4.0,Desconocido,85.0,3.0,web,si,"5334,36",Buena asesoría antes de comprar
+918.0,2026-04-13,Desconocido,Apple,perifericos,1532.85,3.0,15.0,27.0,2.0,tienda,no,4598.55,Buena asesoría antes de comprar
+919.0,2026-04-14,SSD,Desconocido,redes,3530.95,1.0,26.0,Desconocido,-3.0,web,no,3530.95,El producto presentó fallas
+920.0,2026-04-16,Impresora,Xiaomi,Desconocido,4604.74,3.0,-2.0,15.0,2.0,web,si,13814.22,Buen precio y garantía
+921.0,2026-04-18,Impresora,Asus,perifericos,963.85,1.0,13.0,29.0,4.0,web,no,963.85,Excelente atención técnica
+922.0,2026-04-20,Monitor,Samsung,redes,Desconocido,2.0,22.0,72.0,2.0,marketplace,no,7690.28,Buena asesoría antes de comprar
+923.0,2026-04-21,Tablet,Xiaomi,computo,351.64,3.0,9.0,34.0,3.0,marketplace,si,1054.92,Desconocido
+924.0,2026-04-23,Router,Samsung,almacenamiento,1327.82,1.0,-31.0,103.0,4.0,marketplace,si,1327.82,Buena asesoría antes de comprar
+925.0,2026-04-25,SSD,HP,computo,1159.64,4.0,31.0,64.0,Desconocido,web,no,4638.56,Demoraron en atender la garantía
+926.0,2026-04-26,Mouse,Dell,moviles,1996.51,1.0,3.0,110.0,5.0,web,no,1996.51,El producto presentó fallas
+927.0,2026-04-28,Celular,Asus,perifericos,4835.1,2.0,4.0,42.0,3.0,web,no,9670.2,Desconocido
+928.0,2026-04-30,Router,Apple,moviles,3333.07,1.0,34.0,99.0,3.0,marketplace,no,3333.07,excelente atención técnica
+929.0,2026-05-01,Teclado,Desconocido,almacenamiento,5193.2,3.0,15.0,7.0,4.0,tienda,si,15579.6,Desconocido
+930.0,2026-05-03,Laptop,Dell,computo,5663.95,3.0,27.0,25.0,1.0,web,no,16991.85,Mala atención postventa
+931.0,Desconocido,Monitor,Dell,almacenamiento,3838.05,3.0,Desconocido,9.0,1.0,Desconocido,si,11514.15,Buen precio y garantía
+932.0,2026-05-07,Impresora,Dell,almacenamiento,4280.18,-2.0,31.0,111.0,3.0,web,no,8560.36,Producto funcionando perfectamente
+933.0,2026-05-08,Laptop,Desconocido,redes,124.25,3.0,5.0,47.0,4.0,marketplace,si,372.75,Recibí un producto diferente
+934.0,2026-05-10,Teclado,Samsung,perifericos,5054.89,-2.0,31.0,109.0,"5,00",tienda,si,10109.78,El producto presentó fallas
+935.0,2026-05-12,Laptop,Xiaomi,almacenamiento,1820.88,4.0,6.0,95.0,4.0,web,si,7283.52,Excelente atención técnica
+936.0,2026-05-13,Laptop,Desconocido,redes,4679.74,1.0,9.0,0.0,5.0,tienda,si,4679.74,Buen precio y garantía
+937.0,2026-05-15,SSD,Logitech,redes,4493.15,1.0,20.0,25.0,4.0,marketplace,si,4493.15,Buen precio y garantía
+938.0,2026-05-17,Impresora,Logitech,moviles,-720.7,1.0,1.0,27.0,5.0,marketplace,no,720.7,Buena asesoría antes de comprar
+939.0,2026-05-19,Laptop,Apple,redes,4970.77,3.0,10.0,"56,00",2.0,tienda,si,14912.31,Desconocido
+940.0,2026-05-20,Tablet, APPLE ,redes,4285.2,3.0,30.0,18.0,5.0,marketplace,si,12855.6,Buen precio y garantía
+941.0,2026-05-22,SSD,Dell,almacenamiento,3237.64,2.0,6.0,73.0,1.0,Desconocido,no,6475.28,Entrega rápida y producto original
+942.0,2026-05-24,Impresora,Logitech,computo,5584.83,4.0,0.0,101.0,"2,00",web,si,22339.32,Entrega rápida y producto original
+943.0,2026-05-25,Mouse,Lenovo,computo,1607.86,4.0,24.0,10.0,4.0,Desconocido,no,6431.44,Buen precio y garantía
+944.0, 2026-05-27 ,Monitor,Desconocido,computo,3390.57,1.0,26.0,68.0,5.0,tienda,no,3390.57,El pedido llegó incompleto
+945.0,2026-05-29,Celular,Dell,redes,1336.64,3.0,26.0,21.0,3.0,marketplace,si,4009.92,Buena asesoría antes de comprar
+946.0,2026-05-30,Mouse,Samsung,computo,4555.79,2.0,15.0,6.0,4.0,web,Desconocido,9111.58,Buen precio y garantía
+947.0,2026-06-01,SSD,Apple,almacenamiento,6266.4,1.0,22.0,15.0,3.0,web,si,6266.4,Producto funcionando perfectamente
+948.0,2026-06-03,Laptop,Asus,redes,167.02,3.0,23.0,32.0,4.0,web,si,501.06, BUENA ASESORÍA ANTES DE COMPRAR 
+949.0,Desconocido,Audifonos,Logitech,perifericos,1804.19,-4.0,12.0,10.0,2.0,tienda,si,7216.76,Excelente atención técnica
+950.0,2026-06-06,Audifonos,HP,redes,4375.61,4.0,6.0,43.0,3.0,tienda,si,17502.44,Desconocido
+951.0,2026-06-08,Monitor,Dell,moviles,4809.27,3.0,29.0,38.0,5.0,web,si,14427.81,El pedido llegó incompleto
+952.0,2026-06-10,Desconocido,HP,moviles,5793.97,3.0,36.0,38.0,2.0,tienda, SI ,17381.91,El pedido llegó incompleto
+953.0,2026-06-11,SSD,Apple,redes,5263.09,Desconocido,26.0,110.0,2.0,web,no,5263.09,Excelente atención técnica
+954.0,2026-06-13,Tablet,Xiaomi,computo,5114.72,3.0,33.0,104.0,"2,00",tienda,no,15344.16,Producto funcionando perfectamente
+955.0,2026-06-15,Router,HP,computo,5369.11,Desconocido,8.0,71.0,4.0,Desconocido,no,16107.33,Recibí un producto diferente
+956.0,2026-06-16,Audifonos,Asus,perifericos,3090.23,"-1,00","11,00",56.0,"3,00",tienda,si,3090.23,Desconocido
+957.0,2026-06-18,Laptop,Apple,computo,3207.23,2.0,"18,00","65,00",1.0,marketplace,no,6414.46,Buen precio y garantía
+958.0,2026-06-20,Tablet,Asus,perifericos,1087.37,1.0,23.0,28.0,1.0,tienda,no,1087.37,Producto funcionando perfectamente
+959.0,2026-06-22,Tablet,Asus,perifericos,958.12,Desconocido,29.0,88.0,2.0,web,no,958.12,El pedido llegó incompleto
+960.0,2026-06-23,Laptop,Xiaomi,moviles,6235.68,1.0,5.0,43.0,5.0,web,no,6235.68,Excelente atención técnica
+961.0,2026-06-25,Desconocido,HP,perifericos,1093.87,4.0,11.0,47.0,1.0,web,si,4375.48,Buena asesoría antes de comprar
+962.0,2026-06-27,Monitor,Asus,perifericos,1331.29,"4,00","0,00",29.0,-3.0,marketplace,no,5325.16,Buen precio y garantía
+963.0,2026-06-28,Audifonos,Xiaomi,redes,1164.79,4.0,17.0,14.0,2.0,web,si,Desconocido,Excelente atención técnica
+964.0,2026-06-30,SSD,Samsung,almacenamiento,4259.37,1.0,33.0,83.0,1.0,web,no,4259.37,Demoraron en atender la garantía
+965.0,2026-07-02,Mouse,Asus,redes,100.9,4.0,28.0,Desconocido,2.0,tienda,no,403.6,buen precio y garantía
+966.0,2026-07-04,Monitor,Xiaomi,almacenamiento,4642.44,2.0,3.0,30.0,3.0,web,si,9284.88,Entrega rápida y producto original
+967.0,Desconocido,Router,Logitech,moviles,5639.07,3.0,17.0,57.0,1.0,tienda,si,16917.21,Entrega rápida y producto original
+507.5,2026-07-07,SSD,Logitech,perifericos,2768.72,2.0,9.0,0.0,4.0,marketplace,no,5537.44,Producto funcionando perfectamente
+969.0,2026-07-09,Teclado,Samsung,perifericos,3186.52,Desconocido,9.0,5.0,3.0,marketplace,si,12746.08,Producto funcionando perfectamente
+970.0,2026-07-10,Mouse,Apple,moviles,573.49,1.0,29.0,61.0,1.0,web,si,573.49,Excelente atención técnica
+971.0,2026-07-12,Teclado,Logitech,computo,523.98,2.0,"24,00",102.0,1.0,tienda,no,-1047.96,Buen precio y garantía
+972.0,2026-07-14,Teclado,Lenovo,moviles,5113.98,3.0,1.0,Desconocido,5.0,web,no,15341.94,Entrega rápida y producto original
+973.0,2026-07-15,Mouse,Dell,perifericos,4511.95,1.0,23.0,115.0,3.0,web,si,4511.95,Excelente atención técnica
+974.0,2026-07-17,Router,Logitech,perifericos,4760.16,4.0,31.0,51.0,4.0,tienda,si,19040.64,Excelente atención técnica
+975.0,Desconocido,Router, LENOVO ,almacenamiento,4929.95,2.0,3.0,32.0,2.0,tienda,no,9859.9,Mala atención postventa
+976.0,2026-07-21,Desconocido,Xiaomi,redes,2422.95,4.0,34.0,72.0,4.0,tienda,si,9691.8,Excelente atención técnica
+977.0,2026-07-22,Laptop,Samsung,moviles,4735.42,1.0,13.0,-114.0,5.0,tienda,si,4735.42,Excelente atención técnica
+978.0,2026-07-24,Celular,Samsung,moviles,2681.74,1.0,27.0,58.0,3.0,marketplace,no,2681.74,Mala atención postventa
+979.0,2026-07-26,Mouse,Lenovo,perifericos,220.82,3.0,Desconocido,13.0,-3.0,marketplace,si,662.46,Buen precio y garantía
+980.0,2026-07-27,Audifonos,Lenovo,redes,1343.4,3.0,8.0,87.0,4.0,web,si,Desconocido,Producto funcionando perfectamente
+981.0,2026-07-29,SSD,Lenovo,Desconocido,2434.91,"1,00",Desconocido,104.0,4.0,marketplace,si,2434.91,El pedido llegó incompleto
+982.0,2026-07-31,Audifonos,Apple,redes,165.85,1.0,27.0,70.0,1.0,marketplace,no,165.85,Mala atención postventa
+983.0,2026-08-02,Tablet,Xiaomi,perifericos,3352.56,1.0,15.0,5.0,2.0,web,si,3352.56, EXCELENTE ATENCIÓN TÉCNICA 
+984.0,2026-08-03,Monitor,Dell,perifericos,3461.7,-4.0,4.0,16.0,4.0,web,si,13846.8,Entrega rápida y producto original
+985.0,2026-08-05,Tablet,Samsung,perifericos,2217.81,3.0,23.0,115.0,1.0,marketplace,si,6653.43,El pedido llegó incompleto
+986.0,2026-08-07,Router,Samsung,almacenamiento,4116.25,3.0,6.0,52.0,4.0,marketplace,no,12348.75,Buena asesoría antes de comprar
+987.0,2026-08-08,Celular, LOGITECH ,computo,2318.68,3.0,28.0,83.0,5.0,tienda,si,6956.04,Buena asesoría antes de comprar
+988.0,2026-08-10,Teclado,Xiaomi,moviles,"6078,67",2.0,32.0,62.0,2.0,web,no,12157.34,Entrega rápida y producto original
+989.0,2026-08-12,Laptop,HP,moviles,6132.99,4.0,7.0,69.0,2.0,marketplace,Desconocido,24531.96,Recibí un producto diferente
+990.0,2026-08-13,Impresora,Apple,computo,3275.73,Desconocido,36.0,88.0,5.0,web,si,3275.73,Mala atención postventa
+507.5,2026-08-15,Desconocido,Logitech, MOVILES ,589.44,4.0,4.0,108.0,5.0,web,si,2357.76,Excelente atención técnica
+992.0,2026-08-17,Audifonos,Apple,perifericos,1777.55,4.0,Desconocido,35.0,4.0,tienda,si,7110.2,Buena asesoría antes de comprar
+993.0,2026-08-19,Tablet,Dell,almacenamiento,4031.96,4.0,15.0,88.0,5.0,web,si,16127.84,Buena asesoría antes de comprar
+994.0,2026-08-20,Audifonos,Asus,perifericos,2039.29,4.0,5.0,7.0,1.0,marketplace,si,8157.16,Excelente atención técnica
+507.5,2026-08-22,SSD,Logitech,redes,5291.05,3.0,32.0,63.0,3.0,web,si,15873.15,Producto funcionando perfectamente
+996.0,2026-08-24,Celular,Samsung,almacenamiento,2814.24,3.0,13.0,32.0,1.0,marketplace,si,8442.72,Entrega rápida y producto original
+997.0,2026-08-25,Laptop,Logitech,redes,2101.93,4.0,8.0,32.0,2.0,web,si,8407.72,Entrega rápida y producto original
+998.0,2026-08-27,Audifonos,Dell,moviles,3987.22,1.0,5.0,98.0,3.0,marketplace,no,3987.22, BUEN PRECIO Y GARANTÍA 
+999.0,2026-08-29,Mouse,Samsung, REDES ,4852.85,2.0,2.0,4.0,3.0,web,no,9705.7,Entrega rápida y producto original
+507.5,2026-08-31,Monitor,Xiaomi,perifericos,1584.95,3.0,15.0,95.0,Desconocido,tienda,si,4754.85,El pedido llegó incompleto
+522.0,2024-06-07,Router,Asus,perifericos,Desconocido,4.0,15.0,3.0,2.0,marketplace,si,137.92,Producto funcionando perfectamente
+738.0,2025-06-10,Laptop,Samsung,almacenamiento,-2097.5,4.0,25.0,104.0,2.0,tienda,no,8390.0,Buena asesoría antes de comprar
+741.0,2025-06-15,Router,Dell,almacenamiento,734.64,3.0,21.0,95.0,2.0,tienda,no,2203.92,Demoraron en atender la garantía
+661.0,Desconocido,Monitor,Xiaomi,perifericos,2546.48,3.0,11.0,79.0,3.0,web,no,7639.44,El pedido llegó incompleto
+412.0,2023-12-02,Desconocido,HP,redes,Desconocido,2.0,3.0,39.0,5.0,web,no,"3019,54",Producto funcionando perfectamente
+679.0,Desconocido,Teclado,HP,redes,"168,14",3.0,15.0,102.0,3.0,marketplace,si,504.42,Demoraron en atender la garantía
+507.5,2024-12-03,Audifonos,Asus,Desconocido,679.41,1.0,23.0,105.0,2.0,Desconocido,si,679.41,Buena asesoría antes de comprar
+514.0,2024-05-24,SSD,Samsung,almacenamiento,4763.78,1.0,30.0,47.0,4.0,marketplace,si,4763.78,El pedido llegó incompleto
+860.0,2026-01-04,Router,Xiaomi,redes,4070.59,3.0,33.0,98.0,5.0,web,no,12211.77,El pedido llegó incompleto
+137.0,2022-08-20,Router,Logitech,computo,4464.44,1.0,31.0,23.0,2.0,tienda,si,Desconocido,Entrega rápida y producto original
+812.0,2025-10-14,Teclado,Samsung,redes,6171.88,2.0,10.0,41.0,Desconocido,marketplace,no,12343.76,Excelente atención técnica
+77.0,2022-05-10,Tablet,Apple,almacenamiento,1558.92,3.0,1.0,93.0,4.0,marketplace,no,4676.76,Buen precio y garantía
+637.0,2024-12-20,Monitor,Lenovo,moviles,3781.18,3.0,32.0,85.0,1.0,web,si,11343.54,Excelente atención técnica
+974.0,2026-07-17,Router,Logitech,perifericos,4760.16,4.0,31.0,51.0,4.0,tienda,si,19040.64,Buena asesoría antes de comprar
+939.0,2026-05-19,Laptop,Apple,redes,4970.77,3.0,10.0,56.0,2.0,tienda,si,14912.31,Excelente atención técnica
+900.0,2026-03-13, CELULAR ,Xiaomi,computo,1579.99,4.0,21.0,Desconocido,5.0,marketplace,no,6319.96,Desconocido
+507.5,2023-04-23,Router,Logitech,almacenamiento,6353.39,4.0,Desconocido,2.0,3.0,tienda,Desconocido,25413.56,Entrega rápida y producto original
+884.0,2026-02-14,Desconocido,Logitech,computo,3150.8,-2.0,20.0,11.0,2.0,tienda,no,6301.6,El pedido llegó incompleto
+762.0,2025-07-21,Teclado,HP,redes,1277.06,3.0,29.0,-23.0,2.0,Desconocido,Desconocido,-3831.18,Producto funcionando perfectamente
