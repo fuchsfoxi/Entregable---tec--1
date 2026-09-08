@@ -1,0 +1,1 @@
+# Pruebas de hipótesis sobre los datos de ventas, para respaldar el informe final.

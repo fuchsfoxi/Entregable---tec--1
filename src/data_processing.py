@@ -1,0 +1,1 @@
+# Base del proyecto. No depende de nada más — todos los módulos parten de aquí.

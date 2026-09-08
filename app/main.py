@@ -1,0 +1,1 @@
+# Menú principal. Streamlit arma las páginas solo, leyendo app/pages/.
